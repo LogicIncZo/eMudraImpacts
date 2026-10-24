@@ -44,19 +44,16 @@ SCAN_WORKERS=80 python3 scripts/scan_tls.py data/gov-domains.txt   # full scan (
 ## Findings (scan of 2026-10-24)
 
 **495 HTTPS endpoints across 223 gov.in / nic.in domains present eMudhra/emSign TLS**
-(full lists: `results/impacted.csv`, per-domain summary `results/impacted-domains-summary.csv`,
-chain evidence in `results/chains/`).
+(lists: **G1 impact list** `results/g1-impact-list.csv` · **G3 impact list** `results/g3-impact-list.csv`
+· per-domain summary `results/impacted-domains-summary.csv` · chain evidence in `results/chains/`).
 
-- **0 endpoints chain to the 8 compromised intermediates** (`EM DV/OV/EV TLS CA - G3B/G3C`).
-  No scanned gov site is in the *hard-broken* bucket of the 2026-10-27 Chrome removal.
-  The affected-certificate population (~30k) is mostly eMudhra's commercial customers.
-- All 495 endpoints are on the **G1 family**: `emSign Root CA - G1` / `emSign Root TLS CA - G1`
-  (see [notes/incident-brief.md](notes/incident-brief.md)). As of 2026-10-24 this family is
-  **still trusted** in all major stores — Chrome removing `emSign ECC Root CA - G3` on Oct 27
-  does *not* kill these sites today. They sit on the watch-list: Chrome Root Program is
-  "closely investigating" whether emSign Root CA - G1 stays, and eMudhra is exiting the
-  public TLS business regardless, so these certificates need reissue on a planned (not
-  emergency) timeline.
+- **G3 impact list: 0 endpoints.** No scanned gov site chains to the 8 compromised intermediates
+  (`EM DV/OV/EV TLS CA - G3B/G3C`), so the 2026-10-27 Chrome removal hard-breaks none of them.
+- **G1 impact list: all 495 endpoints**, split across two trust paths:
+  - 135 endpoints — `emSign SSL CA - G1` → legacy `emSign Root CA - G1` (direct)
+  - 358 endpoints — `EM * TLS CA - G2A-1` → `emSign Root TLS CA - G1` (Microsoft-only 2024 root) cross-signed by legacy G1
+  All work today; they break if Chrome/Mozilla remove legacy `emSign Root CA - G1` (under evaluation),
+  and eMudhra is exiting public TLS regardless — planned reissue recommended.
 - Issuer breakdown of the 495: `EM DV TLS CA - G2A-1` (281), `emSign SSL CA - G1` (135),
   `EM OV TLS CA - G2A-1` (64), `EM EV TLS CA - G2A-1` (13), `eMudhra RSA EV` (2).
   30 of the 495 leaves are already expired.

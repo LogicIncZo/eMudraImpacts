@@ -1,130 +1,130 @@
 domain,verdict,leaf_issuers,attributed_roots,impacted_hosts,expired_leaves
 aaib.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-aees.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-aeoindia.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+aees.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
+aeoindia.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 aera.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 aerb.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 afmc.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-aftrbghy.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+aftrbghy.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 aiipmr.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 amssdelhi.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
 and.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 apdhte.nic.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 apeda.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,3,0
 aphwcl.nic.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
-apindustries.gov.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),3,0
-apnc.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+apindustries.gov.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root CA - G1,3,0
+apnc.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 apsc.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-aranya.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+aranya.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 attendance.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,3,0
 ayush.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,3,0
 bangalorecustoms.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-bihar.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,1
+bihar.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1,2,1
 birac.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 boi.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 bopter.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
 brahmaputraboard.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 britatom.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 broadcastseva.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
-burdwanmunicipality.gov.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-cag.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-cca.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+burdwanmunicipality.gov.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root CA - G1,2,0
+cag.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
+cca.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 cci.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 ccobz.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 ccras.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-cec.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+cec.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 censusindia.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 cept.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,3,0
-cg.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),6,2
+cg.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,6,2
 cg.nic.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 cgaoa.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-cgdif.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-cgtrti.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-cgvidhansabha.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-chandigarh.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-chandigarhpolice.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),3,0
+cgdif.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+cgtrti.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1,2,0
+cgvidhansabha.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+chandigarh.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+chandigarhpolice.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,3,0
 chandigarhtourism.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-chd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),7,2
-chdanimalhusbandry.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+chd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1,7,2
+chdanimalhusbandry.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 chdca.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 chdctu.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 chdeducation.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 chdfood.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 chdit.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
-chdpr.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-chdsw.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+chdpr.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+chdsw.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1,2,0
 chips.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 cicef.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 cifnet.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 cipranchi.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-cmet.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+cmet.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 coa.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,1,0
 coal.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 copyright.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 cpcb.nic.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
-cpwd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-cpwdpims.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-cpwdpms.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-crs.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+cpwd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+cpwdpims.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+cpwdpms.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+crs.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 csb.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-cstaricalcutta.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+cstaricalcutta.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 ctri.nic.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 cvc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 cybercrime.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-dadfonline.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-dae.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-dcmsme.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),6,0
+dadfonline.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+dae.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
+dcmsme.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,6,0
 dcsem.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-ddvat.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-delhigovt.nic.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-delhitourism.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+ddvat.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+delhigovt.nic.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root CA - G1,1,0
+delhitourism.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 derc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 desw.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 dfpd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 dgca.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,1
-digitalgujarat.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-dirbcglab.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,2
+digitalgujarat.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,1,0
+dirbcglab.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1,2,2
 dmeo.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-dmi.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-dnhctd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+dmi.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+dnhctd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 dov.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,1,0
 dprcg.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 dpsdae.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 dssc.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
-dstetripura.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+dstetripura.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 dvc.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,1,0
 e-nagarsewaup.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-eaindustry.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+eaindustry.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 eatrightindia.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-edudel.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-edustud.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+edudel.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+edustud.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 eicindia.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 employmentbankwb.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 enforcementdirectorate.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
 epostr.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 esiwb.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,3,0
-fci.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+fci.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 fsi.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 fsi.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 fssai.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 gcnep.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,1
-ghcazlbench.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-ghcitanagar.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+ghcazlbench.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
+ghcitanagar.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 ghconline.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 gmch.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 greentribunal.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-grmb.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+grmb.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 gstdelhizone.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 highcourtchd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 himachalrajbhavan.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,2
-hpmc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+hpmc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 hppcl.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
 icfre.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,7,0
 ignfa.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-igrua.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+igrua.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 ikm.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
-imd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-indianairforce.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+imd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1,2,0
+indianairforce.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,1,0
 indianfrro.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 indianvisaonline.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
 indiapost.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
@@ -132,31 +132,31 @@ indiascienceandtechnology.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emS
 isea.gov.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root CA - G1,1,0
 jakemp.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,2
 jeevanpramaan.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
-jkgad.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+jkgad.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 jkhighcourt.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 jnport.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 judicialacademy.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-kar.nic.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-karnataka.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-karnatakapost.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-kerala.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),50,0
+kar.nic.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
+karnataka.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,1,0
+karnatakapost.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,1,0
+kerala.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1,50,0
 keralaprisons.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-krmb.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+krmb.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
 labourbureau.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
 lgpunjab.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 lsgkerala.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,23,0
 mahabhumi.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-mahaforest.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),3,1
+mahaforest.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,3,1
 mahagst.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
-mahapwd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+mahapwd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1,1,0
 maharashtra.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,2
-mcchandigarh.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+mcchandigarh.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 mgov.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,3,0
 mobileseva.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 mofpi.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,2
 moil.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 mospi.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-mp.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),3,2
+mp.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1,3,2
 msmc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 msmediagra.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 naac.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
@@ -164,61 +164,61 @@ ncpcr.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,3,0
 ndal-alis.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1; ndal-alis.gov.in,1,0
 ndrf.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 necouncil.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
-nfc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-nfscnagpur.nic.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+nfc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
+nfscnagpur.nic.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root CA - G1,2,0
 ngodarpan.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
 nhmharyana.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
 niphm.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 nisd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-nja.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
-nma.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+nja.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,1,0
+nma.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 nmanoc.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,2
-nmcg.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-nqr.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-nrhmchd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-nsp.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-nth.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),3,0
+nmcg.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+nqr.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1,2,0
+nrhmchd.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+nsp.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
+nth.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1,3,0
 nvbdcp.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 nwda.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
 ociservices.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 odishapost.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,2
 odishatreasury.gov.in,G1-FAMILY (watch-list),EM EV TLS CA - G2A-1,emSign Root CA - G1,3,0
 packolkata.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
-patnahighcourt.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+patnahighcourt.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 peso.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,3,0
 phedharyana.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,4,0
 postagestamps.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
-presscouncil.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,2
+presscouncil.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,2
 psa.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 ptcmysore.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 punjabrajbhavan.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 rajbhasha.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 raknpa.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,2
 revenueharyana.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
-rodra.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-rrbbnc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,1
-rrrlf.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),3,0
-scholarships.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
-sfio.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+rodra.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
+rrbbnc.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,1
+rrrlf.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,3,0
+scholarships.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,2,0
+sfio.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,AAA Certificate Services; emSign Root CA - G1,1,0
 sicldr.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
 spl.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 sportsauthorityofindia.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-ssachd.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),1,0
+ssachd.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
 sslcexamkerala.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
 steel.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 tec.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,1,0
-telangana.gov.in,G1-FAMILY (watch-list),eMudhra RSA Extended Validation Secure Server CA; emSign SSL CA - G1,eMudhra legacy root (emSign family); emSign Root CA - G1,4,0
-tripura.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),5,0
-tripuranrhm.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+telangana.gov.in,G1-FAMILY (watch-list),eMudhra RSA Extended Validation Secure Server CA; emSign SSL CA - G1,emSign Root CA - G1,4,0
+tripura.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,5,0
+tripuranrhm.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 ucil.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
 udyogaadhaar.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 up.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
-up.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; EM EV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1; emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),8,1
+up.nic.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1; EM EV TLS CA - G2A-1; emSign SSL CA - G1,emSign Root CA - G1,8,1
 upcane.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 upforest.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 upparliamentaryaffairs.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
 urducouncil.nic.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
-vamnicom.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),3,0
+vamnicom.gov.in,G1-FAMILY (watch-list),EM OV TLS CA - G2A-1,emSign Root CA - G1,3,0
 vvgnli.gov.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,1,0
-wbphed.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root TLS CA - G1 (x-signed by emSign Root CA - G1),2,0
+wbphed.gov.in,G1-FAMILY (watch-list),EM DV TLS CA - G2A-1,emSign Root CA - G1,2,0
 yogamdniy.nic.in,G1-FAMILY (watch-list),emSign SSL CA - G1,emSign Root CA - G1,2,0
