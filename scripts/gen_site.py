@@ -26,7 +26,8 @@ n_dom = len(summary)
 n_host = len(g1) + len(g3)
 n_expired = sum(int(r["expired_leaves"]) for r in summary)
 n_direct = sum(1 for r in g1 if "legacy, direct" in r["g1_path"])
-n_cross = len(g1) - n_direct
+n_cross = sum(1 for r in g1 if "Root TLS CA" in r["g1_path"])
+n_legacy = len(g1) - n_direct - n_cross
 
 G3_IOCS = "EM DV TLS CA - G3B · EM OV TLS CA - G3B · EM EV TLS CA - G3B · EM DV TLS CA - G3C · EM OV TLS CA - G3C · EM EV TLS CA - G3C (+ EM OV CS CA - G3B/G3C, code-signing)"
 
@@ -143,6 +144,7 @@ recommended action, planned rather than emergency.</p>
 <div class="cards">
 <div class="card"><div class="n">{n_direct}</div><div class="l">endpoints — legacy G1, direct (<code>emSign SSL CA - G1</code>)</div></div>
 <div class="card"><div class="n">{n_cross}</div><div class="l">endpoints — via <code>emSign Root TLS CA - G1</code> (MS-only) + legacy cross-sign (<code>EM * TLS CA - G2A-1</code>)</div></div>
+<div class="card"><div class="n">{n_legacy}</div><div class="l">endpoints — other legacy eMudhra root</div></div>
 </div>
 
 <h3>Domains ({n_dom})</h3>
