@@ -1,0 +1,390 @@
+host,domain,port,tls,leaf_cn,leaf_issuer,leaf_org,notBefore,notAfter,impacted,matched_intermediates,chain_roots,chain_issuers,verify_code,http_status,expired
+tamilnadupost.cept.gov.in,cept.gov.in,443,ok,*.cept.gov.in,EM DV TLS CA - G2A-1,,Sep 28 05:12:58 2026 GMT,Dec 27 05:12:58 2026 GMT,EMSIGN-FAMILY,EM DV TLS CA - G2A-1; emSign Root CA - G1; emSign Root TLS CA - G1,emSign Root CA - G1,EM DV TLS CA - G2A-1; emSign Root TLS CA - G1; emSign Root CA - G1,0 (ok),200,no
+cscl.co.in,cscl.co.in,443,ok,cscl.co.in,emSign SSL CA - G1,,Sep 25 13:08:59 2025 GMT,Oct 20 13:08:59 2026 GMT,EMSIGN-FAMILY,emSign Root CA - G1; emSign SSL CA - G1,emSign Root CA - G1,emSign SSL CA - G1; emSign Root CA - G1,10 (certificate has expired),000,YES
+ideunom.ac.in,ideunom.ac.in,443,ok,*.ideunom.ac.in,EM DV TLS CA - G2A-1,,Feb  9 11:03:29 2026 GMT,May 10 11:03:29 2026 GMT,EMSIGN-FAMILY,EM DV TLS CA - G2A-1; emSign Root CA - G1; emSign Root TLS CA - G1,,EM DV TLS CA - G2A-1; emSign Root TLS CA - G1; emSign Root CA - G1,10 (certificate has expired),200,YES
+tantea.nic.in,tantea.nic.in,443,ok,tantea.nic.in,emSign SSL CA - G1,,Apr 30 06:41:43 2025 GMT,May 25 06:41:19 2026 GMT,EMSIGN-FAMILY,emSign Root CA - G1; emSign SSL CA - G1,,emSign SSL CA - G1; emSign Root CA - G1,10 (certificate has expired),200,YES
+tnsericulture.tn.gov.in,tn.gov.in,443,ok,tnsericulture.tn.gov.in,EM DV TLS CA - G2A-1,,Sep 10 07:24:48 2026 GMT,Dec  9 07:24:48 2026 GMT,EMSIGN-FAMILY,EM DV TLS CA - G2A-1; emSign Root CA - G1; emSign Root TLS CA - G1,,EM DV TLS CA - G2A-1; emSign Root TLS CA - G1; emSign Root CA - G1,0 (ok),404,no
+agritech.tnau.ac.in,agritech.tnau.ac.in,443,ok,agritech.tnau.ac.in,YR1,,Sep  9 08:20:27 2026 GMT,Dec  8 08:20:26 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+alagappauniversity.ac.in,alagappauniversity.ac.in,443,ok,www.online-exams.alagappauniversity.ac.in,YR2,,Oct 14 06:43:41 2026 GMT,Jan 12 06:43:40 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),302,no
+annamalaiuniversity.ac.in,annamalaiuniversity.ac.in,443,ok,webmail.annamalaiuniversity.ac.in,YR2,,Oct 12 06:25:59 2026 GMT,Jan 10 06:25:58 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+annauniv.edu,annauniv.edu,443,ok,*.annauniv.edu,Sectigo Public Server Authentication CA DV R36,,Oct  5 00:00:00 2026 GMT,Apr 21 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46,0 (ok),200,no
+ariyalur.nic.in,ariyalur.nic.in,443,ok,ariyalur.nic.in,YR2,,Sep 28 03:13:39 2026 GMT,Dec 27 03:13:38 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+auegov.ac.in,auegov.ac.in,443,ok,*.auegov.ac.in,Thawte TLS RSA CA G1,,Jun 25 00:00:00 2026 GMT,Jan  9 23:59:59 2027 GMT,no,,,Thawte TLS RSA CA G1; DigiCert Global Root G2,0 (ok),301,no
+auttvl.ac.in,auttvl.ac.in,443,ok,auttvl.ac.in,WE1,,Sep 17 23:41:37 2026 GMT,Dec 17 00:41:32 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+b-u.ac.in,b-u.ac.in,443,ok,*.b-u.ac.in,GoDaddy TLS Intermediate CA DV - R1v1,,Aug 25 10:41:15 2026 GMT,Mar 11 10:41:15 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),200,no
+bdu.ac.in,bdu.ac.in,443,ok,WWW.BDU.AC.IN,GlobalSign GCC R3 EV TLS CA 2025,Bharathidasan University,Feb 19 10:46:21 2026 GMT,Mar 23 10:46:20 2027 GMT,no,,,GlobalSign GCC R3 EV TLS CA 2025,21 (unable to verify the first certificate),200,no
+bim.edu,bim.edu,443,ok,*.bim.edu,GlobalSign GCC R46 AlphaSSL CA 2025,,Aug  8 10:31:48 2026 GMT,Feb 23 10:31:48 2027 GMT,no,,,GlobalSign GCC R46 AlphaSSL CA 2025,21 (unable to verify the first certificate),302,no
+ccmc.gov.in,ccmc.gov.in,443,ok,*.ccmc.gov.in,SSL.com TLS Issuing RSA CA R1,,Jul 28 10:10:08 2026 GMT,Feb 11 10:06:46 2027 GMT,no,,SSL.com TLS RSA Root CA 2022,SSL.com TLS Issuing RSA CA R1; SSL.com TLS RSA Root CA 2022,0 (ok),200,no
+chengalpattu.nic.in,chengalpattu.nic.in,443,ok,chengalpattu.nic.in,YR2,,Sep 29 03:33:12 2026 GMT,Dec 28 03:33:11 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+chennai.nic.in,chennai.nic.in,443,ok,chennai.nic.in,YR2,,Sep  1 01:04:23 2026 GMT,Nov 30 01:04:22 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+chennaicorporation.gov.in,chennaicorporation.gov.in,443,ok,chennaicorporation.gov.in,Amazon RSA 2048 M01,,Nov 21 00:00:00 2025 GMT,Dec 20 23:59:59 2026 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+chennaitradecentre.org,chennaitradecentre.org,443,ok,chennaitradecentre.org,GoDaddy TLS Intermediate CA DV - R1v1,,Sep  1 20:24:51 2026 GMT,Mar 18 20:24:51 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),405,no
+cmchistn.com,cmchistn.com,443,ok,cmchistn.com,WE1,,Sep 28 10:07:29 2026 GMT,Dec 27 11:07:13 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+cmdachennai.gov.in,cmdachennai.gov.in,443,ok,cmdachennai.gov.in,YR2,,Sep  6 17:00:26 2026 GMT,Dec  5 17:00:25 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),302,no
+cmhelpline.tnega.org,cmhelpline.tnega.org,443,ok,support.workforce247.com,YR1,,Sep  7 09:13:25 2026 GMT,Dec  6 09:13:24 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),400,no
+coimbatore.nic.in,coimbatore.nic.in,443,ok,coimbatore.nic.in,YR1,,Sep 28 02:53:34 2026 GMT,Dec 27 02:53:33 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+coimbatoresmartcity.org,coimbatoresmartcity.org,8443,ok,coimbatoresmartcity.org,WE1,,Sep 17 17:22:33 2026 GMT,Dec 16 18:20:01 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),526,no
+cropsurvey.tnega.org,cropsurvey.tnega.org,443,ok,cropsurvey.tnega.org,Amazon RSA 2048 M01,,Sep 29 00:00:00 2026 GMT,Apr 14 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+crstn.org,crstn.org,443,ok,crstn.org,Sectigo Public Server Authentication CA DV R36,,Oct 14 00:00:00 2026 GMT,Apr 30 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),200,no
+cuddalore.nic.in,cuddalore.nic.in,443,ok,cuddalore.nic.in,YR1,,Sep 28 02:53:33 2026 GMT,Dec 27 02:53:32 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tn.data.gov.in,data.gov.in,443,ok,*.data.gov.in,YR1,,Oct 13 08:53:42 2026 GMT,Jan 11 08:53:41 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),405,no
+dharmapuri.nic.in,dharmapuri.nic.in,443,ok,dharmapuri.nic.in,YR2,,Sep 29 03:33:11 2026 GMT,Dec 28 03:33:10 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+dindigul.nic.in,dindigul.nic.in,443,ok,dindigul.nic.in,YR2,,Sep 28 02:53:34 2026 GMT,Dec 27 02:53:33 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+dipexamstndte.in,dipexamstndte.in,443,ok,dipexamstndte.in,YE2,,Sep 21 21:23:31 2026 GMT,Dec 20 21:23:30 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),302,no
+epass.tnega.org,epass.tnega.org,443,ok,epass.tnega.org,YR1,,Oct  2 05:18:49 2026 GMT,Dec 31 05:18:48 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+erode.nic.in,erode.nic.in,443,ok,erode.nic.in,YR1,,Sep 28 03:13:44 2026 GMT,Dec 27 03:13:43 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+erodesmartcity.org,erodesmartcity.org,443,ok,erodesmartcity.org,YE2,,Oct  5 13:39:25 2026 GMT,Jan  3 13:39:24 2027 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),301,no
+gcesalem.edu.in,gcesalem.edu.in,443,ok,gcesalem.edu.in,YE1,,Sep 13 17:52:34 2026 GMT,Dec 12 17:52:33 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+greentnmission.com,greentnmission.com,443,ok,greentnmission.com,WE1,,Sep 17 02:34:45 2026 GMT,Dec 16 03:34:39 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+groundwatertnpwd.org.in,groundwatertnpwd.org.in,443,ok,Plesk,Plesk,Plesk,Jun 11 11:00:53 2025 GMT,Jun 11 11:00:53 2026 GMT,no,,Plesk,Plesk,10 (certificate has expired),200,YES
+iiitdm.ac.in,iiitdm.ac.in,443,ok,www.iiitdm.ac.in,YR1,,Sep  6 04:39:28 2026 GMT,Dec  5 04:39:27 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+investingintamilnadu.com,investingintamilnadu.com,443,ok,investingintamilnadu.com,YE2,,Oct 22 14:53:21 2026 GMT,Jan 20 14:53:20 2027 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+kallakurichi.nic.in,kallakurichi.nic.in,443,ok,kallakurichi.nic.in,YR1,,Sep 28 11:01:11 2026 GMT,Dec 27 11:01:10 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+kancheepuram.nic.in,kancheepuram.nic.in,443,ok,kancheepuram.nic.in,YR1,,Sep 28 03:13:38 2026 GMT,Dec 27 03:13:37 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+kanitamil.in,kanitamil.in,443,ok,*.zoho.in,Sectigo Public Server Authentication CA DV R36,,May 25 00:00:00 2026 GMT,Dec  9 23:59:59 2026 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),403,no
+kanniyakumari.nic.in,kanniyakumari.nic.in,443,ok,kanniyakumari.nic.in,YR2,,Sep  9 13:39:29 2026 GMT,Dec  8 13:39:28 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+karur.nic.in,karur.nic.in,443,ok,karur.nic.in,YR2,,Sep 28 02:53:33 2026 GMT,Dec 27 02:53:32 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+kmtr.co.in,kmtr.co.in,443,ok,*.kmtr.co.in,YR1,,Oct 25 08:22:59 2026 GMT,Jan 23 08:22:58 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+krishnagiri.nic.in,krishnagiri.nic.in,443,ok,krishnagiri.nic.in,YR2,,Sep 28 03:13:39 2026 GMT,Dec 27 03:13:38 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+madurai.nic.in,madurai.nic.in,443,ok,madurai.nic.in,YR2,,Sep 28 03:13:42 2026 GMT,Dec 27 03:13:41 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+maduraismartcity.in,maduraismartcity.in,443,ok,maduraismartcity.in,WE1,,Sep 17 16:08:10 2026 GMT,Dec 16 17:08:08 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+mayiladuthurai.nic.in,mayiladuthurai.nic.in,443,ok,mayiladuthurai.nic.in,YR2,,Sep 28 03:13:39 2026 GMT,Dec 27 03:13:38 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+mkuniversity.ac.in,mkuniversity.ac.in,443,ok,mkuniversity.ac.in,YR1,,Aug 12 07:00:07 2026 GMT,Nov 10 07:00:06 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+motherteresawomenuniv.ac.in,motherteresawomenuniv.ac.in,443,ok,motherteresawomenuniv.ac.in,YE1,,Sep  1 12:55:08 2026 GMT,Nov 30 12:55:07 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+msuniv.ac.in,msuniv.ac.in,443,ok,*.msuniv.ac.in,YE1,,Sep  8 08:38:11 2026 GMT,Dec  7 08:38:10 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+nagapattinam.nic.in,nagapattinam.nic.in,443,ok,nagapattinam.nic.in,YR1,,Sep 29 05:00:46 2026 GMT,Dec 28 05:00:45 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+namakkal.nic.in,namakkal.nic.in,443,ok,namakkal.nic.in,YR2,,Sep 29 03:33:14 2026 GMT,Dec 28 03:33:13 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+nilgiris.nic.in,nilgiris.nic.in,443,ok,nilgiris.nic.in,YR2,,Sep 17 14:58:05 2026 GMT,Dec 16 14:58:04 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+nilgiristreecuttingpermissions.org,nilgiristreecuttingpermissions.org,443,ok,nilgiristreecuttingpermissions.org,YE1,,Oct  1 17:45:13 2026 GMT,Dec 30 17:45:12 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+opendata.cscl.co.in,opendata.cscl.co.in,443,ok,*.cscl.co.in,GlobalSign GCC R46 DV TLS CA 2025,,Aug 14 08:46:27 2026 GMT,Mar  1 08:46:27 2027 GMT,no,,,GlobalSign GCC R46 DV TLS CA 2025,21 (unable to verify the first certificate),200,no
+perambalur.nic.in,perambalur.nic.in,443,ok,perambalur.nic.in,YR1,,Sep 17 14:58:05 2026 GMT,Dec 16 14:58:04 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+periyaruniversity.ac.in,periyaruniversity.ac.in,443,ok,*.periyaruniversity.ac.in,YR1,,Oct 24 04:57:45 2026 GMT,Jan 22 04:57:44 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+pudukkottai.nic.in,pudukkottai.nic.in,443,ok,pudukkottai.nic.in,YR2,,Sep 29 03:33:10 2026 GMT,Dec 28 03:33:09 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+ramanathapuram.nic.in,ramanathapuram.nic.in,443,ok,ramanathapuram.nic.in,YR2,,Sep 17 14:58:10 2026 GMT,Dec 16 14:58:09 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+salem.nic.in,salem.nic.in,443,ok,salem.nic.in,YR2,,Sep 17 14:58:07 2026 GMT,Dec 16 14:58:06 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+salemcorporation.gov.in,salemcorporation.gov.in,443,ok,salemcorporation.gov.in,YR2,,Sep 24 00:26:44 2026 GMT,Dec 23 00:26:43 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+salemsmartcity.org,salemsmartcity.org,443,ok,*.salemsmartcity.org,GlobalSign GCC R6 AlphaSSL CA 2025,,Oct 14 10:27:08 2025 GMT,Nov 14 12:28:10 2026 GMT,no,,GlobalSign; GlobalSign,GlobalSign GCC R6 AlphaSSL CA 2025; GlobalSign,0 (ok),200,no
+singarachennai.com,singarachennai.com,443,ok,singarachennai.com,WE1,,Oct 20 21:26:14 2026 GMT,Jan 18 22:26:10 2027 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+sivaganga.nic.in,sivaganga.nic.in,443,ok,sivaganga.nic.in,YR2,,Sep 17 15:30:36 2026 GMT,Dec 16 15:30:35 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+startuptn.in,startuptn.in,443,ok,startuptn.in,Amazon RSA 2048 M04,,Sep 26 00:00:00 2026 GMT,Apr 11 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M04; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+tactv.in,tactv.in,443,ok,*.tactv.in,RapidSSL TLS RSA CA G1,,Sep 28 00:00:00 2026 GMT,Mar 14 23:59:59 2027 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tamildigitallibrary.in,tamildigitallibrary.in,443,ok,tamildigitallibrary.in,Thawte TLS RSA CA G1,,Dec 31 00:00:00 2025 GMT,Dec 30 23:59:59 2026 GMT,no,,DigiCert Global Root G2,Thawte TLS RSA CA G1; DigiCert Global Root G2,0 (ok),404,no
+tamilnadu.mygov.in,tamilnadu.mygov.in,443,ok,*.mygov.in,YR2,,Sep 30 05:54:13 2026 GMT,Dec 29 05:54:12 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tamilnaduimti.org,tamilnaduimti.org,443,ok,tamilnaduimti.org,YR1,,Oct 12 01:17:59 2026 GMT,Jan 10 01:17:58 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tamilnadunursingcouncil.com,tamilnadunursingcouncil.com,443,ok,tamilnadunursingcouncil.com,Go Daddy Secure Certificate Authority - G2,,Jan 28 01:40:01 2026 GMT,Jan 28 16:32:04 2027 GMT,no,,,Go Daddy Secure Certificate Authority - G2,21 (unable to verify the first certificate),000,no
+tamiluniversity.ac.in,tamiluniversity.ac.in,443,ok,www.tamiluniversity.ac.in,YR1,,Sep  1 09:09:01 2026 GMT,Nov 30 09:09:00 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tamilvu.org,tamilvu.org,443,ok,tamilvu.org,WE1,,Sep 23 02:04:31 2026 GMT,Dec 22 03:04:27 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),301,no
+tancem.in,tancem.in,443,ok,cpanel.tancem.in,YR1,,Sep  4 05:49:47 2026 GMT,Dec  3 05:49:46 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tanmag.org,tanmag.org,443,ok,*.tanmag.org,YR1,,Sep 25 16:00:26 2026 GMT,Dec 24 16:00:25 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tansidco.org,tansidco.org,443,ok,tansidco.org,Sectigo Public Server Authentication CA DV R36,,Jan  7 00:00:00 2026 GMT,Jan  7 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46,0 (ok),200,no
+tantea.co.in,tantea.co.in,443,ok,tantea.co.in,YE2,,Aug 29 04:12:03 2026 GMT,Nov 27 04:12:02 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tanuvas.ac.in,tanuvas.ac.in,443,ok,*.tanuvas.ac.in,Sectigo Public Server Authentication CA DV R36,,Jul  8 00:00:00 2026 GMT,Jan 22 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),200,no
+tasco.in,tasco.in,443,ok,tasco.in,YR2,,Sep 13 18:44:16 2026 GMT,Dec 12 18:44:15 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tasmac.co.in,tasmac.co.in,443,ok,tasmac.co.in,YR1,,Sep 24 04:31:58 2026 GMT,Dec 23 04:31:57 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+thamizhmaram.com,thamizhmaram.com,443,ok,thamizhmaram.com,WE1,,Aug 30 09:55:33 2026 GMT,Nov 28 10:54:03 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+thanjavur.nic.in,thanjavur.nic.in,443,ok,thanjavur.nic.in,YR1,,Sep 17 15:30:33 2026 GMT,Dec 16 15:30:32 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+theni.nic.in,theni.nic.in,443,ok,theni.nic.in,YR2,,Sep 29 05:00:47 2026 GMT,Dec 28 05:00:46 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+thoothukudi.nic.in,thoothukudi.nic.in,443,ok,thoothukudi.nic.in,YR1,,Sep 29 05:00:48 2026 GMT,Dec 28 05:00:47 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+ticelbiopark.com,ticelbiopark.com,443,ok,*.ticelbiopark.com,YR2,,Oct 13 20:22:30 2026 GMT,Jan 11 20:22:29 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tidco.com,tidco.com,443,ok,tidco.com,WE1,,Sep 27 07:48:49 2026 GMT,Dec 26 08:48:41 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+tidelpark.com,tidelpark.com,443,ok,tidelpark.com,YR2,,Oct 11 09:11:00 2026 GMT,Jan  9 09:10:59 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tiic.org,tiic.org,443,ok,www.tiic.org,RapidSSL TLS RSA CA G1,,Dec 10 00:00:00 2025 GMT,Dec  9 23:59:59 2026 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),301,no
+tiruchirappalli.nic.in,tiruchirappalli.nic.in,443,ok,tiruchirappalli.nic.in,YR2,,Sep 17 15:30:38 2026 GMT,Dec 16 15:30:37 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tirunelveli.nic.in,tirunelveli.nic.in,443,ok,tirunelveli.nic.in,YR1,,Sep 29 05:00:48 2026 GMT,Dec 28 05:00:47 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tirunelvelicorporation.com,tirunelvelicorporation.com,443,ok,tirunelvelicorporation.com,WE1,,Sep 13 00:12:05 2026 GMT,Dec 12 01:09:34 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),301,no
+tirupathur.nic.in,tirupathur.nic.in,443,ok,tirupathur.nic.in,YR2,,Sep 29 03:33:15 2026 GMT,Dec 28 03:33:14 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tiruppur.nic.in,tiruppur.nic.in,443,ok,tiruppur.nic.in,YR2,,Sep 17 15:30:34 2026 GMT,Dec 16 15:30:33 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tiruvallur.nic.in,tiruvallur.nic.in,443,ok,tiruvallur.nic.in,YR1,,Sep 29 05:00:48 2026 GMT,Dec 28 05:00:47 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tiruvannamalai.nic.in,tiruvannamalai.nic.in,443,ok,tiruvannamalai.nic.in,YR1,,Aug 31 08:09:53 2026 GMT,Nov 29 08:09:52 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tiruvarur.nic.in,tiruvarur.nic.in,443,ok,tiruvarur.nic.in,YR1,,Sep 17 15:30:33 2026 GMT,Dec 16 15:30:32 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tn-mbamca.com,tn-mbamca.com,443,ok,tn-mbamca.com,Amazon RSA 2048 M01,,Oct 20 00:00:00 2026 GMT,May  5 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),301,no
+aavin.tn.gov.in,tn.gov.in,443,ok,*.aavin.tn.gov.in,SSL2BUY EMEA RSA Domain Validation Secure Server CA,,Dec 23 00:00:00 2025 GMT,Jan 22 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,SSL2BUY EMEA RSA Domain Validation Secure Server CA; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),302,no
+aed.tn.gov.in,tn.gov.in,443,ok,aed.tn.gov.in,YR2,,Sep 16 10:40:52 2026 GMT,Dec 15 10:40:51 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),301,no
+agrimark.tn.gov.in,tn.gov.in,443,ok,agrimark.tn.gov.in,YR2,,Sep 29 10:14:18 2026 GMT,Dec 28 10:14:17 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+ahd.tn.gov.in,tn.gov.in,443,ok,ahd.tn.gov.in,YE1,,Oct 12 11:42:53 2026 GMT,Jan 10 11:42:52 2027 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+arasurubber.tn.gov.in,tn.gov.in,443,ok,www.arasurubber.tn.gov.in,RapidSSL TLS RSA CA G1,,Dec 23 00:00:00 2025 GMT,Dec 22 23:59:59 2026 GMT,no,,,RapidSSL TLS RSA CA G1,21 (unable to verify the first certificate),200,no
+artandculture.tn.gov.in,tn.gov.in,443,ok,artandculture.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,May 11 00:00:00 2026 GMT,Nov 25 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),401,no
+assembly.tn.gov.in,tn.gov.in,443,ok,assembly.tn.gov.in,YR1,,Aug  4 05:56:59 2026 GMT,Nov  2 05:56:58 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+awards.tn.gov.in,tn.gov.in,443,ok,awards.tn.gov.in,YE2,,Aug 13 06:20:31 2026 GMT,Nov 11 06:20:30 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+bcmbcmw.tn.gov.in,tn.gov.in,443,ok,bcmbcmw.tn.gov.in,YR2,,Aug 25 18:38:56 2026 GMT,Nov 23 18:38:55 2026 GMT,no,,,YR2,21 (unable to verify the first certificate),200,no
+boilers.tn.gov.in,tn.gov.in,443,ok,boilers.tn.gov.in,YR1,,Oct 22 18:35:11 2026 GMT,Jan 20 18:35:10 2027 GMT,no,,,YR1,21 (unable to verify the first certificate),200,no
+cams.tn.gov.in,tn.gov.in,443,ok,cams.tn.gov.in,Amazon RSA 2048 M04,,Jan 22 00:00:00 2026 GMT,Feb 20 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M04; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+ccms.tn.gov.in,tn.gov.in,443,ok,ccms.tn.gov.in,YR2,,Sep 28 08:22:35 2026 GMT,Dec 27 08:22:34 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+cetl.tn.gov.in,tn.gov.in,443,ok,cetl.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Jan  6 00:00:00 2026 GMT,Feb  6 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36,21 (unable to verify the first certificate),200,no
+ckicp.tn.gov.in,tn.gov.in,443,ok,ckicp.tn.gov.in,YR1,,Oct 14 06:24:25 2026 GMT,Jan 12 06:24:24 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+cmprf.tn.gov.in,tn.gov.in,443,ok,cmprf.tn.gov.in,YR1,,Sep 21 10:20:32 2026 GMT,Dec 20 10:20:31 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),403,no
+cms.tn.gov.in,tn.gov.in,443,ok,cms.tn.gov.in,YR2,,Sep 10 08:38:18 2026 GMT,Dec  9 08:38:17 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+consumer.tn.gov.in,tn.gov.in,443,ok,consumer.tn.gov.in,YR1,,Oct 23 18:38:54 2026 GMT,Jan 21 18:38:53 2027 GMT,no,,,YR1,21 (unable to verify the first certificate),200,no
+eadangal.tn.gov.in,tn.gov.in,443,ok,eadangal.tn.gov.in,SSL.com TLS Issuing RSA CA R1,,Jul 23 06:31:15 2026 GMT,Oct 21 06:31:15 2026 GMT,no,,,SSL.com TLS Issuing RSA CA R1; SSL.com TLS RSA Root CA 2022; SSL.com EV Root Certification Authority RSA R2,10 (certificate has expired),302,YES
+edistricts.tn.gov.in,tn.gov.in,443,ok,edistricts.tn.gov.in,RapidSSL TLS RSA CA G1,,Jul 14 00:00:00 2026 GMT,Jan 28 23:59:59 2027 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+employmentexchange.tn.gov.in,tn.gov.in,443,ok,employmentexchange.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Sep 24 00:00:00 2025 GMT,Oct 24 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,10 (certificate has expired),200,YES
+emunnetram.tn.gov.in,tn.gov.in,443,ok,emunnetram.tn.gov.in,RapidSSL TLS RSA CA G1,,Jun 27 00:00:00 2025 GMT,Jul 16 23:59:59 2026 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,10 (certificate has expired),200,YES
+environment.tn.gov.in,tn.gov.in,443,ok,environment.tn.gov.in,YR1,,Aug 12 10:02:05 2026 GMT,Nov 10 10:02:04 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),403,no
+epmsrevenue.tn.gov.in,tn.gov.in,443,ok,epmsrevenue.tn.gov.in,YE1,,Sep 21 05:18:40 2026 GMT,Dec 20 05:18:39 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+eservices.tn.gov.in,tn.gov.in,443,ok,eservices.tn.gov.in,YR2,,Sep  7 06:03:48 2026 GMT,Dec  6 06:03:47 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+exwel.tn.gov.in,tn.gov.in,443,ok,exwel.tn.gov.in,YR2,,Jul 13 06:39:59 2026 GMT,Oct 11 06:39:58 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,10 (certificate has expired),200,YES
+financedept.tn.gov.in,tn.gov.in,443,ok,www.financedept.tn.gov.in,RapidSSL TLS RSA CA G1,,Aug 24 00:00:00 2026 GMT,Mar 10 23:59:59 2027 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+fisheries.tn.gov.in,tn.gov.in,443,ok,fisheries.tn.gov.in,YE2,,Sep  7 07:32:11 2026 GMT,Dec  6 07:32:10 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+flagday.tn.gov.in,tn.gov.in,443,ok,flagday.tn.gov.in,YR1,,Aug 17 07:07:32 2026 GMT,Nov 15 07:07:31 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+foodsafety.tn.gov.in,tn.gov.in,443,ok,foodsafety.tn.gov.in,YR2,,Sep 14 05:06:25 2026 GMT,Dec 13 05:06:24 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+forests.tn.gov.in,tn.gov.in,443,ok,forests.tn.gov.in,YR2,,Aug 17 04:07:08 2026 GMT,Nov 15 04:07:07 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+hcmadras.tn.gov.in,tn.gov.in,443,ok,hcmadras.tn.gov.in,YR2,,Sep 28 09:30:31 2026 GMT,Dec 27 09:30:30 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+hrce.tn.gov.in,tn.gov.in,443,ok,*.hrce.tn.gov.in,Sectigo RSA Domain Validation Secure Server CA,,Nov 11 00:00:00 2025 GMT,Dec 12 23:59:59 2026 GMT,no,,,Sectigo RSA Domain Validation Secure Server CA; USERTrust RSA Certification Authority; AAA Certificate Services,0 (ok),200,no
+it.tn.gov.in,tn.gov.in,443,ok,it.tn.gov.in,YE1,,Aug 29 07:37:04 2026 GMT,Nov 27 07:37:03 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+karuvoolam.tn.gov.in,tn.gov.in,443,ok,*.karuvoolam.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Jun  5 00:00:00 2026 GMT,Dec 20 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),302,no
+kooturavu.tn.gov.in,tn.gov.in,443,ok,kooturavu.tn.gov.in,GoDaddy TLS Intermediate CA DV - R1v1,,Aug 25 08:23:44 2026 GMT,Mar 11 08:23:44 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),200,no
+labour.tn.gov.in,tn.gov.in,443,ok,labour.tn.gov.in,YR1,,Oct 12 10:06:57 2026 GMT,Jan 10 10:06:56 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),403,no
+middaymeal.tn.gov.in,tn.gov.in,443,ok,middaymeal.tn.gov.in,YR2,,Aug 11 16:33:01 2026 GMT,Nov  9 16:33:00 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+mimas.tn.gov.in,tn.gov.in,443,ok,mimas.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,May 25 00:00:00 2026 GMT,Dec  9 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),403,no
+mmckwmc.tn.gov.in,tn.gov.in,443,ok,mmckwmc.tn.gov.in,YR2,,Sep 20 11:20:42 2026 GMT,Dec 19 11:20:41 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+mrb.tn.gov.in,tn.gov.in,443,ok,mrb.tn.gov.in,R13,,Oct 31 18:35:30 2025 GMT,Jan 29 18:35:29 2026 GMT,no,,,R13; ISRG Root X1,10 (certificate has expired),404,YES
+msmeonline.tn.gov.in,tn.gov.in,443,ok,msmeonline.tn.gov.in,GeoTrust TLS RSA CA G1,Industries and Commerce Department,Oct 13 00:00:00 2026 GMT,Apr 29 23:59:59 2027 GMT,no,,DigiCert Global Root G2,GeoTrust TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+mtcbus.tn.gov.in,tn.gov.in,443,ok,www.mtcbus.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Feb  2 00:00:00 2026 GMT,Mar  4 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36,21 (unable to verify the first certificate),200,no
+mudhalvarmarundhagam.tn.gov.in,tn.gov.in,443,ok,mudhalvarmarundhagam.tn.gov.in,YE1,,Sep 12 12:06:41 2026 GMT,Dec 11 12:06:40 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+naanmudhalvan.tn.gov.in,tn.gov.in,443,ok,*.naanmudhalvan.tn.gov.in,GeoTrust TLS RSA CA G1,TAMIL NADU SKILL DEVELOPMENT CORPORATION,Nov  1 00:00:00 2025 GMT,Nov 12 23:59:59 2026 GMT,no,,DigiCert Global Root G2,GeoTrust TLS RSA CA G1; DigiCert Global Root G2,0 (ok),301,no
+nallosai.tn.gov.in,tn.gov.in,443,ok,nallosai.tn.gov.in,RapidSSL TLS RSA CA G1,,Oct  7 00:00:00 2026 GMT,Apr 23 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+nhm.tn.gov.in,tn.gov.in,443,ok,nhm.tn.gov.in,RapidSSL TLS RSA CA G1,,May 14 00:00:00 2026 GMT,Nov 28 23:59:59 2026 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),301,no
+ocmms.tn.gov.in,tn.gov.in,443,ok,ocmms.tn.gov.in,YE2,,Aug  1 06:58:55 2026 GMT,Oct 30 06:58:54 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+omcmanpower.tn.gov.in,tn.gov.in,443,ok,omcmanpower.tn.gov.in,YR1,,Sep 21 04:52:21 2026 GMT,Dec 20 04:52:20 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+onlineppa.tn.gov.in,tn.gov.in,443,ok,onlineppa.tn.gov.in,Go Daddy Secure Certificate Authority - G2,,Apr 28 09:56:51 2026 GMT,Nov 12 09:56:51 2026 GMT,no,,Go Daddy Root Certificate Authority - G2,Go Daddy Secure Certificate Authority - G2; Go Daddy Root Certificate Authority - G2,0 (ok),200,no
+pmkusum.tn.gov.in,tn.gov.in,443,ok,pmkusum.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Oct  5 00:00:00 2026 GMT,Apr 21 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),404,no
+police.tn.gov.in,tn.gov.in,443,ok,police.tn.gov.in,SSL.com TLS Issuing RSA CA R1,Tamil Nadu State Crime Records Bureau,Sep 28 09:35:32 2026 GMT,Apr  5 05:49:07 2027 GMT,no,,,SSL.com TLS Issuing RSA CA R1; SSL.com TLS RSA Root CA 2022; SecureTrust CA,0 (ok),403,no
+prisons.tn.gov.in,tn.gov.in,443,ok,prisons.tn.gov.in,R3,,Feb 29 10:40:11 2024 GMT,May 29 10:40:10 2024 GMT,no,,,R3; ISRG Root X1,10 (certificate has expired),200,YES
+prosecution.tn.gov.in,tn.gov.in,443,ok,tnsectdemo.tn.gov.in,YR2,,Aug 24 18:39:00 2026 GMT,Nov 22 18:38:59 2026 GMT,no,,,YR2,21 (unable to verify the first certificate),200,no
+psckfs.tn.gov.in,tn.gov.in,443,ok,psckfs.tn.gov.in,YE1,,Aug 21 09:20:31 2026 GMT,Nov 19 09:20:30 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+punal.tn.gov.in,tn.gov.in,443,ok,punal.tn.gov.in,YR2,,Aug 24 09:01:53 2026 GMT,Nov 22 09:01:52 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+rcs.tn.gov.in,tn.gov.in,443,ok,rcs.tn.gov.in,YR1,,Jun 26 00:51:11 2026 GMT,Sep 24 00:51:10 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,10 (certificate has expired),302,YES
+rera.tn.gov.in,tn.gov.in,443,ok,rera.tn.gov.in,RapidSSL TLS RSA CA G1,,Jun 16 00:00:00 2026 GMT,Dec 31 23:59:59 2026 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+rtionline.tn.gov.in,tn.gov.in,443,ok,rtionline.tn.gov.in,YR2,,Jul 27 03:12:04 2026 GMT,Oct 25 03:12:03 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,10 (certificate has expired),200,YES
+sathytiger.tn.gov.in,tn.gov.in,443,ok,sathytiger.tn.gov.in,YE1,,Oct 10 23:20:24 2026 GMT,Jan  8 23:20:23 2027 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),404,no
+scd.tn.gov.in,tn.gov.in,443,ok,scd.tn.gov.in,YR2,,Oct 22 18:39:16 2026 GMT,Jan 20 18:39:15 2027 GMT,no,,,YR2,21 (unable to verify the first certificate),200,no
+sdat.tn.gov.in,tn.gov.in,443,ok,www.sdat.tn.gov.in,YR2,,Aug 24 05:00:41 2026 GMT,Nov 22 05:00:40 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+seiaa.tn.gov.in,tn.gov.in,443,ok,seiaa.tn.gov.in,YR2,,Sep  1 17:27:00 2026 GMT,Nov 30 17:26:59 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+sgh.tn.gov.in,tn.gov.in,443,ok,sgh.tn.gov.in,GoDaddy TLS Intermediate CA DV - R1v1,,Aug 12 16:02:48 2026 GMT,Feb 26 16:02:48 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),200,no
+shrc.tn.gov.in,tn.gov.in,443,ok,shrc.tn.gov.in,YR1,,Aug 16 18:39:11 2026 GMT,Nov 14 18:39:10 2026 GMT,no,,,YR1,21 (unable to verify the first certificate),200,no
+sipcot.tn.gov.in,tn.gov.in,443,ok,sipcot.tn.gov.in,Go Daddy Secure Certificate Authority - G2,,Nov 17 07:07:04 2025 GMT,Nov 18 15:45:03 2026 GMT,no,,Go Daddy Root Certificate Authority - G2,Go Daddy Secure Certificate Authority - G2; Go Daddy Root Certificate Authority - G2,0 (ok),302,no
+skilldevelopment.tn.gov.in,tn.gov.in,443,ok,*.skilldevelopment.tn.gov.in,GeoTrust TLS RSA CA G1,TAMIL NADU SKILL DEVELOPMENT CORPORATION,Jul 16 00:00:00 2026 GMT,Jan 30 23:59:59 2027 GMT,no,,DigiCert Global Root G2,GeoTrust TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+skilltraining.tn.gov.in,tn.gov.in,443,ok,skilltraining.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,May 25 00:00:00 2026 GMT,Dec  9 23:59:59 2026 GMT,no,,,Sectigo Public Server Authentication CA DV R36; ISRG Root X1,21 (unable to verify the first certificate),200,no
+spc.tn.gov.in,tn.gov.in,443,ok,spc.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,May 25 00:00:00 2026 GMT,Dec  9 23:59:59 2026 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),200,no
+ssp.tn.gov.in,tn.gov.in,443,ok,ssp.tn.gov.in,R13,,Oct 26 04:23:07 2025 GMT,Jan 24 04:23:06 2026 GMT,no,,,R13; ISRG Root X1,10 (certificate has expired),000,YES
+tafcorn.tn.gov.in,tn.gov.in,443,ok,tafcorn.tn.gov.in,YR2,,Oct 24 18:38:48 2026 GMT,Jan 22 18:38:47 2027 GMT,no,,,YR2,21 (unable to verify the first certificate),200,no
+tahdco.tn.gov.in,tn.gov.in,443,ok,tahdco.tn.gov.in,R11,,Jun 18 18:33:24 2024 GMT,Sep 16 18:33:23 2024 GMT,no,,,R11,10 (certificate has expired),404,YES
+tambaramcorporation.tn.gov.in,tn.gov.in,443,ok,www.tambaramcorporation.tn.gov.in,E7,,Feb 26 10:10:41 2026 GMT,May 27 10:10:40 2026 GMT,no,,,E7; ISRG Root X1,10 (certificate has expired),302,YES
+tamilnaducareerservices.tn.gov.in,tn.gov.in,443,ok,tamilnaducareerservices.tn.gov.in,YR2,,Aug 20 09:10:32 2026 GMT,Nov 18 09:10:31 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),000,no
+tamilnadutourism.tn.gov.in,tn.gov.in,443,ok,tamilnadutourism.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Jul 24 00:00:00 2026 GMT,Feb  7 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),301,no
+tanfed.tn.gov.in,tn.gov.in,443,ok,tanfed.tn.gov.in,YR2,,Aug 28 18:35:23 2026 GMT,Nov 26 18:35:22 2026 GMT,no,,,YR2,21 (unable to verify the first certificate),200,no
+tanfinet.tn.gov.in,tn.gov.in,443,ok,tanfinet.tn.gov.in,YR2,,Aug 14 07:40:16 2026 GMT,Nov 12 07:40:15 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tanscst.tn.gov.in,tn.gov.in,443,ok,www.tanscst.tn.gov.in,Go Daddy Secure Certificate Authority - G2,,Feb 16 08:57:50 2026 GMT,Mar 12 10:51:11 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,Go Daddy Secure Certificate Authority - G2; Go Daddy Root Certificate Authority - G2,0 (ok),403,no
+tansi.tn.gov.in,tn.gov.in,443,ok,tansi.tn.gov.in,SSL2BUY EMEA RSA Domain Validation Secure Server CA,,Dec 30 00:00:00 2025 GMT,Jan 29 23:59:59 2027 GMT,no,,,SSL2BUY EMEA RSA Domain Validation Secure Server CA; Sectigo Public Server Authentication Root R46,0 (ok),200,no
+tansismart.tn.gov.in,tn.gov.in,443,ok,tansismart.tn.gov.in,Thawte TLS RSA CA G1,,Nov 12 00:00:00 2025 GMT,Nov 11 23:59:59 2026 GMT,no,,DigiCert Global Root G2,Thawte TLS RSA CA G1; DigiCert Global Root G2,0 (ok),302,no
+tbgpccr.tn.gov.in,tn.gov.in,443,ok,tbgpccr.tn.gov.in,YE2,,Aug 14 09:09:39 2026 GMT,Nov 12 09:09:38 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tcp.tn.gov.in,tn.gov.in,443,ok,tcp.tn.gov.in,RapidSSL TLS RSA CA G1,,Nov 11 00:00:00 2025 GMT,Nov 10 23:59:59 2026 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),302,no
+teda.tn.gov.in,tn.gov.in,443,ok,tamco.tn.gov.in,YE2,,Oct  9 07:50:19 2026 GMT,Jan  7 07:50:18 2027 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tenancy.tn.gov.in,tn.gov.in,443,ok,www.tenancy.tn.gov.in,SSL.com TLS Issuing RSA CA R1,,Jul 23 06:16:10 2026 GMT,Oct 21 06:16:10 2026 GMT,no,,,SSL.com TLS Issuing RSA CA R1; SSL.com TLS RSA Root CA 2022; SSL.com EV Root Certification Authority RSA R2,10 (certificate has expired),302,YES
+textbookcorp.tn.gov.in,tn.gov.in,443,ok,www.textbookcorp.tn.gov.in,Sectigo RSA Domain Validation Secure Server CA,,Apr  2 00:00:00 2024 GMT,May  2 23:59:59 2025 GMT,no,,AAA Certificate Services,Sectigo RSA Domain Validation Secure Server CA; USERTrust RSA Certification Authority; AAA Certificate Services,10 (certificate has expired),200,YES
+thiran360.tn.gov.in,tn.gov.in,443,ok,*.thiran360.tn.gov.in,GeoTrust TLS RSA CA G1,TAMIL NADU SKILL DEVELOPMENT CORPORATION,Feb  6 00:00:00 2026 GMT,Feb  5 23:59:59 2027 GMT,no,,DigiCert Global Root G2,GeoTrust TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tn.gov.in,tn.gov.in,443,ok,tn.gov.in,YE2,,Aug 13 04:32:04 2026 GMT,Nov 11 04:32:03 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),301,no
+tnagrisnet.tn.gov.in,tn.gov.in,443,ok,tnagrisnet.tn.gov.in,YR1,,Aug 28 06:25:23 2026 GMT,Nov 26 06:25:22 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),301,no
+tnarchives.tn.gov.in,tn.gov.in,443,ok,tnarchives.tn.gov.in,R10,,Jun 18 18:32:39 2024 GMT,Sep 16 18:32:38 2024 GMT,no,,,R10,10 (certificate has expired),404,YES
+tnbudget.tn.gov.in,tn.gov.in,443,ok,tnbudget.tn.gov.in,YR2,,Aug 16 18:35:16 2026 GMT,Nov 14 18:35:15 2026 GMT,no,,,YR2,21 (unable to verify the first certificate),301,no
+tncsc-edpc.tn.gov.in,tn.gov.in,443,ok,tncsc-edpc.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Jan  1 00:00:00 2026 GMT,Jan 31 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),302,no
+tncsc.tn.gov.in,tn.gov.in,443,ok,tncsc.tn.gov.in,YR2,,Sep 30 12:13:01 2026 GMT,Dec 29 12:13:00 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tncu.tn.gov.in,tn.gov.in,443,ok,tncu.tn.gov.in,YR1,,Jul 27 03:44:59 2026 GMT,Oct 25 03:44:58 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,10 (certificate has expired),200,YES
+tndce.tn.gov.in,tn.gov.in,443,ok,tndce.tn.gov.in,YR1,,Sep  5 02:53:08 2026 GMT,Dec  4 02:53:07 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tnedistrict.tn.gov.in,tn.gov.in,443,ok,tnedistrict.tn.gov.in,RapidSSL TLS RSA CA G1,,Sep  7 00:00:00 2026 GMT,Mar 24 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnega.tn.gov.in,tn.gov.in,443,ok,tnega.tn.gov.in,YE2,,Oct  1 14:03:03 2026 GMT,Dec 30 14:03:02 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tnei.tn.gov.in,tn.gov.in,443,ok,tnei.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Dec 25 00:00:00 2025 GMT,Jan 24 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36,21 (unable to verify the first certificate),200,no
+tnesevai.tn.gov.in,tn.gov.in,443,ok,www.tnesevai.tn.gov.in,RapidSSL TLS RSA CA G1,,Sep  7 00:00:00 2026 GMT,Mar 24 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnfrs.tn.gov.in,tn.gov.in,443,ok,www.tnfrs.tn.gov.in,YE1,,Oct  9 07:51:21 2026 GMT,Jan  7 07:51:20 2027 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tnfwb.tn.gov.in,tn.gov.in,443,ok,tnfwb.tn.gov.in,YR2,,Aug  3 04:02:45 2026 GMT,Nov  1 04:02:44 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tngcc.tn.gov.in,tn.gov.in,443,ok,tngcc.tn.gov.in,YE2,,Aug  6 06:10:06 2026 GMT,Nov  4 06:10:05 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tngis.tn.gov.in,tn.gov.in,443,ok,tngis.tn.gov.in,RapidSSL TLS RSA CA G1,,Aug  7 00:00:00 2026 GMT,Feb 21 23:59:59 2027 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnhandlooms.tn.gov.in,tn.gov.in,443,ok,tnhandlooms.tn.gov.in,YR2,,Oct 11 12:52:48 2026 GMT,Jan  9 12:52:47 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tnhealth.tn.gov.in,tn.gov.in,443,ok,tnhealth.tn.gov.in,RapidSSL TLS RSA CA G1,,Dec 31 00:00:00 2025 GMT,Jan 12 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnhighways.tn.gov.in,tn.gov.in,443,ok,tnhighways.tn.gov.in,YR1,,Oct 14 06:21:53 2026 GMT,Jan 12 06:21:52 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tnhorticulture.tn.gov.in,tn.gov.in,443,ok,tnhorticulture.tn.gov.in,YE2,,Jul 27 21:44:16 2026 GMT,Oct 25 21:44:15 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tnhouse.tn.gov.in,tn.gov.in,443,ok,tnhouse.tn.gov.in,YR1,,Aug 12 15:24:03 2026 GMT,Nov 10 15:24:02 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tnidb.tn.gov.in,tn.gov.in,443,ok,tnidb.tn.gov.in,YR1,,Aug 13 04:48:03 2026 GMT,Nov 11 04:48:02 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),301,no
+tnlandsurvey.tn.gov.in,tn.gov.in,443,ok,tnlandsurvey.tn.gov.in,RapidSSL TLS RSA CA G1,,May 26 00:00:00 2026 GMT,Dec 10 23:59:59 2026 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),404,no
+tnlasdigital.tn.gov.in,tn.gov.in,443,ok,tnlasdigital.tn.gov.in,YR2,,Aug 28 11:47:15 2026 GMT,Nov 26 11:47:14 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),302,no
+tnlda.tn.gov.in,tn.gov.in,443,ok,tnlda.tn.gov.in,YR1,,Aug 10 03:27:10 2026 GMT,Nov  8 03:27:09 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tnmaritime.tn.gov.in,tn.gov.in,443,ok,tnmaritime.tn.gov.in,YR2,,Sep  9 11:57:58 2026 GMT,Dec  8 11:57:57 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tnmsc.tn.gov.in,tn.gov.in,443,ok,tnmsc.tn.gov.in,RapidSSL TLS RSA CA G1,,Dec 31 00:00:00 2025 GMT,Jan 12 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnmvmd.tn.gov.in,tn.gov.in,443,ok,tnmvmd.tn.gov.in,YR2,,Oct 12 18:38:33 2026 GMT,Jan 10 18:38:32 2027 GMT,no,,,YR2,21 (unable to verify the first certificate),200,no
+tnprivatejobs.tn.gov.in,tn.gov.in,443,ok,www.tnprivatejobs.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Sep 24 00:00:00 2025 GMT,Oct 24 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,10 (certificate has expired),301,YES
+tnrd.tn.gov.in,tn.gov.in,443,ok,*.tnrd.tn.gov.in,SSL.com TLS Issuing RSA CA R1,,Oct 13 11:08:27 2026 GMT,Apr 29 08:09:41 2027 GMT,no,,,SSL.com TLS Issuing RSA CA R1; SSL.com TLS RSA Root CA 2022; SecureTrust CA,0 (ok),200,no
+tnreat.tn.gov.in,tn.gov.in,443,ok,tnreat.tn.gov.in,YE1,,Aug 24 10:44:23 2026 GMT,Nov 22 10:44:22 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tnrsp.tn.gov.in,tn.gov.in,443,ok,tnrsp.tn.gov.in,YR1,,Oct 14 06:22:59 2026 GMT,Jan 12 06:22:58 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tnsdma.tn.gov.in,tn.gov.in,443,ok,tnsdma.tn.gov.in,RapidSSL TLS RSA CA G1,,May 30 00:00:00 2025 GMT,Jun 30 23:59:59 2026 GMT,no,,,RapidSSL TLS RSA CA G1,10 (certificate has expired),301,YES
+tnsec.tn.gov.in,tn.gov.in,443,ok,tnsec.tn.gov.in,YR2,,Aug 10 12:23:03 2026 GMT,Nov  8 12:23:02 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tnskill.tn.gov.in,tn.gov.in,443,ok,*.tnskill.tn.gov.in,GeoTrust TLS RSA CA G1,TAMIL NADU SKILL DEVELOPMENT CORPORATION,Apr 10 00:00:00 2026 GMT,Oct 25 23:59:59 2026 GMT,no,,,GeoTrust TLS RSA CA G1; DigiCert Global Root G2,0 (ok),302,no
+tnslurb.tn.gov.in,tn.gov.in,443,ok,tnslurb.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Sep  2 00:00:00 2026 GMT,Mar 19 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; USERTrust RSA Certification Authority; Sectigo Public Server Authentication Root R46,0 (ok),200,no
+tnsocialwelfare.tn.gov.in,tn.gov.in,443,ok,tnsocialwelfare.tn.gov.in,YR2,,Sep 18 09:34:01 2026 GMT,Dec 17 09:34:00 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),301,no
+tnswa.tn.gov.in,tn.gov.in,443,ok,www.tnswa.tn.gov.in,RapidSSL TLS RSA CA G1,,Apr 20 00:00:00 2026 GMT,Nov  4 23:59:59 2026 GMT,no,,DigiCert Global Root G2; DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tntextiles.tn.gov.in,tn.gov.in,443,ok,tntextiles.tn.gov.in,GoDaddy TLS Intermediate CA DV - R1v1,,Oct 18 06:11:12 2026 GMT,May  4 06:11:12 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),200,no
+tntextilesschemes.tn.gov.in,tn.gov.in,443,ok,tntextilesschemes.tn.gov.in,YE2,,Sep 12 18:03:44 2026 GMT,Dec 11 18:03:43 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),404,no
+tntribalwelfare.tn.gov.in,tn.gov.in,443,ok,tntribalwelfare.tn.gov.in,RapidSSL TLS RSA CA G1,,Nov 21 00:00:00 2025 GMT,Nov 20 23:59:59 2026 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnuhdb.tn.gov.in,tn.gov.in,443,ok,tnuhdb.tn.gov.in,YR2,,Aug  4 12:36:33 2026 GMT,Nov  2 12:36:32 2026 GMT,no,,,YR2,21 (unable to verify the first certificate),200,no
+tnurbanepay.tn.gov.in,tn.gov.in,443,ok,tnurbanepay.tn.gov.in,RapidSSL TLS RSA CA G1,,Jul 28 00:00:00 2026 GMT,Feb 11 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnusrb.tn.gov.in,tn.gov.in,443,ok,tnusrb.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Mar 11 00:00:00 2026 GMT,Apr 10 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36,21 (unable to verify the first certificate),200,no
+trackertngcc.tn.gov.in,tn.gov.in,443,ok,trackertngcc.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Feb  9 00:00:00 2026 GMT,Feb  9 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),302,no
+transtan.tn.gov.in,tn.gov.in,443,ok,*.transtan.tn.gov.in,GlobalSign RSA OV SSL CA 2018,TRANSPLANT AUTHORITY OF TAMIL NADU,Dec 29 06:01:25 2025 GMT,Jan 30 06:01:24 2027 GMT,no,,,GlobalSign RSA OV SSL CA 2018; GlobalSign,0 (ok),200,no
+trb.tn.gov.in,tn.gov.in,443,ok,trb.tn.gov.in,RapidSSL TLS RSA CA G1,,Oct 10 00:00:00 2026 GMT,Apr 26 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+ttfc.tn.gov.in,tn.gov.in,443,ok,ttfc.tn.gov.in,YE2,,Oct  5 05:17:38 2026 GMT,Jan  3 05:17:37 2027 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+twadboard.tn.gov.in,tn.gov.in,443,ok,twadboard.tn.gov.in,RapidSSL TLS RSA CA G1,,Aug 10 00:00:00 2026 GMT,Feb 24 23:59:59 2027 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+twadeodb.tn.gov.in,tn.gov.in,443,ok,twadeodb.tn.gov.in,RapidSSL TLS RSA CA G1,,Jan 21 00:00:00 2026 GMT,Feb  4 23:59:59 2027 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),403,no
+vptax.tnrd.tn.gov.in,tn.gov.in,443,ok,*.tnrd.tn.gov.in,SSL.com TLS Issuing RSA CA R1,,Oct 13 11:08:27 2026 GMT,Apr 29 08:09:41 2027 GMT,no,,,SSL.com TLS Issuing RSA CA R1; SSL.com TLS RSA Root CA 2022; SecureTrust CA,0 (ok),200,no
+wlwchennai.tn.gov.in,tn.gov.in,443,ok,www.wlwchennai.tn.gov.in,YR1,,Oct 20 10:23:21 2026 GMT,Jan 18 10:23:20 2027 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+wrd.tn.gov.in,tn.gov.in,443,ok,wrd.tn.gov.in,Sectigo Public Server Authentication CA DV R36,,Jun 11 00:00:00 2025 GMT,Jul 11 23:59:59 2026 GMT,no,,,Sectigo Public Server Authentication CA DV R36,10 (certificate has expired),200,YES
+tnadwscholarship.in,tnadwscholarship.in,443,ok,tnadwscholarship.in,YE1,,Oct 17 03:59:01 2026 GMT,Jan 15 03:59:00 2027 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tnau.ac.in,tnau.ac.in,443,ok,tnau.ac.in,GeoTrust TLS RSA CA G1,Tamil Nadu Agricultural University,Nov 14 00:00:00 2025 GMT,Nov 13 23:59:59 2026 GMT,no,,DigiCert Global Root G2,GeoTrust TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnayushonline.co.in,tnayushonline.co.in,443,ok,*.tnayushonline.co.in,Sectigo Public Server Authentication CA DV R36,,Jul  9 00:00:00 2026 GMT,Jan 23 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),200,no
+tnbizbuddy.com,tnbizbuddy.com,443,ok,tnbizbuddy.com,RapidSSL TLS RSA CA G1,,Sep 28 00:00:00 2026 GMT,Apr 14 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1,21 (unable to verify the first certificate),302,no
+tncdw.org,tncdw.org,443,ok,tncdw.org,YR2,,Sep 28 11:18:23 2026 GMT,Dec 27 11:18:22 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tncpe.gov.in,tncpe.gov.in,443,ok,tncpe.gov.in,RapidSSL TLS RSA CA G1,,Jun 10 00:00:00 2026 GMT,Dec 25 23:59:59 2026 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),302,no
+tnctvwb.in,tnctvwb.in,443,ok,tnctvwb.in,YE2,,Oct  6 05:50:14 2026 GMT,Jan  4 05:50:13 2027 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),403,no
+tndalu.ac.in,tndalu.ac.in,443,ok,tndalu.ac.in,YE2,,Oct 21 11:41:06 2026 GMT,Jan 19 11:41:05 2027 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tndotehub.in,tndotehub.in,443,ok,tndotehub.in,WE1,,Oct 14 16:51:13 2026 GMT,Jan 12 17:48:43 2027 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+tndphpm.com,tndphpm.com,443,ok,tndphpm.com,YE2,,Sep  7 12:28:00 2026 GMT,Dec  6 12:27:59 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tndtegteonline.in,tndtegteonline.in,443,ok,tndtegteonline.in,WE1,,Oct  9 09:11:52 2026 GMT,Jan  7 10:11:47 2027 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+tneaonline.org,tneaonline.org,443,ok,tneaonline.org,Amazon RSA 2048 M01,,Oct  2 00:00:00 2026 GMT,Apr 17 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),301,no
+tnega.org,tnega.org,443,ok,tnega.org,GoDaddy TLS Intermediate CA DV - R1v1,,Jul  9 09:43:24 2026 GMT,Jan 23 09:43:24 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),405,no
+tnelb.gov.in,tnelb.gov.in,443,ok,tnelb.gov.in,YR1,,Aug 25 06:23:19 2026 GMT,Nov 23 06:23:18 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),200,no
+tneow.gov.in,tneow.gov.in,443,ok,tnsectdemo.tn.gov.in,YR2,,Aug 24 18:39:00 2026 GMT,Nov 22 18:38:59 2026 GMT,no,,,YR2,21 (unable to verify the first certificate),200,no
+tnfdc.in,tnfdc.in,443,ok,*.tnfdc.in,RapidSSL TLS RSA CA G1,,Aug 12 00:00:00 2026 GMT,Feb 26 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tnfdyaanai.com,tnfdyaanai.com,443,ok,tnfdyaanai.com,WE1,,Aug 28 19:18:44 2026 GMT,Nov 26 20:18:32 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+tnfwccb.com,tnfwccb.com,443,ok,tnfwccb.com,YR2,,Sep  3 04:37:03 2026 GMT,Dec  2 04:37:02 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tnhsp.org,tnhsp.org,443,ok,tnhsp.org,YR2,,Oct 14 21:51:07 2026 GMT,Jan 12 21:51:06 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),403,no
+tnjfu.ac.in,tnjfu.ac.in,443,ok,tnjfu.ac.in,WE1,,Sep 24 19:51:44 2026 GMT,Dec 23 20:49:19 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+tnlea.com,tnlea.com,443,ok,tnlea.com,YE1,,Sep 30 05:15:17 2026 GMT,Dec 29 05:15:16 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tnmaritime.com,tnmaritime.com,443,ok,tnmaritime.com,YE2,,Sep  2 09:29:52 2026 GMT,Dec  1 09:29:51 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),301,no
+tnmedicalselection.net,tnmedicalselection.net,443,ok,www.tnmedicalselection.net,Sectigo Public Server Authentication CA DV R36,,Jun 18 00:00:00 2026 GMT,Jan  2 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46,0 (ok),200,no
+tnmedicalselection.org,tnmedicalselection.org,443,ok,tnmedicalselection.org,GoDaddy TLS Intermediate CA DV - R1v1,,Oct 19 05:22:03 2026 GMT,May  5 05:22:03 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),405,no
+tnmgrmu.ac.in,tnmgrmu.ac.in,443,ok,tnmgrmu.ac.in,YR2,,Sep 12 01:12:04 2026 GMT,Dec 11 01:12:03 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),301,no
+tnou.ac.in,tnou.ac.in,443,ok,www.tnou.ac.in,Sectigo Public Server Authentication CA DV R36,,Feb 16 00:00:00 2026 GMT,Feb 16 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),200,no
+tnouportal.in,tnouportal.in,443,ok,tnouportal.in,Sectigo Public Server Authentication CA DV R36,,Jun  3 00:00:00 2026 GMT,Dec 18 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),200,no
+tnpcb.gov.in,tnpcb.gov.in,443,ok,tnpcb.gov.in,YE1,,Aug  1 06:55:21 2026 GMT,Oct 30 06:55:20 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+tnpds.gov.in,tnpds.gov.in,443,ok,*.tnpds.gov.in,Sectigo Public Server Authentication CA DV R36,,Feb 18 00:00:00 2026 GMT,Mar  1 23:59:59 2027 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),302,no
+tnpesu.org,tnpesu.org,443,ok,tnpesu.org,Sectigo Public Server Authentication CA DV R36,,Jun 26 00:00:00 2026 GMT,Jan 10 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; AAA Certificate Services,0 (ok),200,no
+tnpl.com,tnpl.com,443,ok,tnpl.com,YE2,,Sep 28 14:42:57 2026 GMT,Dec 27 14:42:56 2026 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),000,no
+tnplcement.in,tnplcement.in,443,ok,*.tnplcement.in,YE2,,Oct 16 16:13:48 2026 GMT,Jan 14 16:13:47 2027 GMT,no,,,YE2; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),200,no
+eservices.tnpolice.gov.in,tnpolice.gov.in,443,ok,eservices.tnpolice.gov.in,Sectigo Public Server Authentication CA OV R36,STATE CRIME RECORDS BUREAU,Sep 24 00:00:00 2025 GMT,Sep 24 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA OV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,10 (certificate has expired),200,YES
+tnpolice.gov.in,tnpolice.gov.in,443,ok,eservices.tnpolice.gov.in,Sectigo Public Server Authentication CA OV R36,STATE CRIME RECORDS BUREAU,Sep 24 00:00:00 2025 GMT,Sep 24 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA OV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,10 (certificate has expired),200,YES
+tnpoly.in,tnpoly.in,443,ok,tnpoly.in,YE1,,Jul 26 16:10:58 2026 GMT,Oct 24 16:10:57 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,10 (certificate has expired),200,YES
+tnpolymerpark.com,tnpolymerpark.com,443,ok,tnpolymerpark.com,Sectigo Public Server Authentication CA DV R36,,Jun  3 00:00:00 2026 GMT,Dec 18 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),301,no
+tnprojectnilgiritahr.com,tnprojectnilgiritahr.com,443,ok,tnprojectnilgiritahr.com,YR1,,Sep  8 09:46:13 2026 GMT,Dec  7 09:46:12 2026 GMT,no,,,YR1; Root YR; ISRG Root X1,0 (ok),308,no
+tnpsc.gov.in,tnpsc.gov.in,443,ok,tnpsc.gov.in,Go Daddy Secure Certificate Authority - G2,,Nov  2 11:52:24 2025 GMT,Nov  2 11:30:08 2026 GMT,no,,,"Go Daddy Secure Certificate Authority - G2; Go Daddy Root Certificate Authority - G2; C=US, O=The Go Daddy Group, Inc., OU=Go Daddy Class 2 Certification Authority",0 (ok),404,no
+tnpscexams.in,tnpscexams.in,443,ok,tnpscexams.in,Amazon RSA 2048 M01,,Jan 31 00:00:00 2026 GMT,Mar  1 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+tnrajbhavan.gov.in,tnrajbhavan.gov.in,443,ok,tnrajbhavan.gov.in,YR2,,Sep 17 17:28:34 2026 GMT,Dec 16 17:28:33 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),301,no
+tnreginet.gov.in,tnreginet.gov.in,443,ok,tnreginet.gov.in,RapidSSL TLS RSA CA G1,,Jun  1 00:00:00 2026 GMT,Dec 16 23:59:59 2026 GMT,no,,DigiCert Global Root G2,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),301,no
+tnregipayment.gov.in,tnregipayment.gov.in,443,ok,tnregipayment.gov.in,GlobalSign Organization Validation CA - SHA256 - G2,Government of Tamil Nadu,Mar 11 06:37:54 2016 GMT,Mar 12 06:37:54 2018 GMT,no,,GlobalSign Root CA,GlobalSign Organization Validation CA - SHA256 - G2; GlobalSign Root CA,10 (certificate has expired),200,YES
+tnrise.co.in,tnrise.co.in,443,ok,tnrise.co.in,YE1,,Oct  2 13:43:37 2026 GMT,Dec 31 13:43:36 2026 GMT,no,,,YE1; Root YE; ISRG Root X2; ISRG Root X1,0 (ok),301,no
+tnrtp.org,tnrtp.org,443,ok,tnrtp.org,GoDaddy TLS Intermediate CA DV - R1v1,,Jul 29 15:11:24 2026 GMT,Feb 12 15:11:24 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),405,no
+tnsacs.in,tnsacs.in,443,ok,tnsacs.in,YR2,,Oct 14 04:59:24 2026 GMT,Jan 12 04:59:23 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tnsand.in,tnsand.in,443,ok,www.tnsand.in,Sectigo Public Server Authentication CA DV R36,,Jun 19 00:00:00 2026 GMT,Jan  3 23:59:59 2027 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority; AAA Certificate Services,0 (ok),200,no
+tnscb.org,tnscb.org,443,ok,tnscb.org,WE1,,Sep 24 13:38:18 2026 GMT,Dec 23 14:38:14 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),301,no
+tnscbank.com,tnscbank.com,443,ok,*.tnscbank.com,YR2,,Oct  8 12:22:48 2026 GMT,Jan  6 12:22:47 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+emis.tnschools.gov.in,tnschools.gov.in,443,ok,emis.tnschools.gov.in,Amazon RSA 2048 M01,,Oct  3 00:00:00 2026 GMT,Apr 18 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+illamthedikalvi.tnschools.gov.in,tnschools.gov.in,443,ok,illamthedikalvi.tnschools.gov.in,Amazon RSA 2048 M04,,Oct  3 00:00:00 2026 GMT,Apr 18 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M04; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+nammaschool.tnschools.gov.in,tnschools.gov.in,443,ok,nammaschool.tnschools.gov.in,Amazon RSA 2048 M01,,Oct  3 00:00:00 2026 GMT,Apr 18 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+tnschools.gov.in,tnschools.gov.in,443,ok,tnschools.gov.in,Amazon RSA 2048 M01,,Jan 29 00:00:00 2026 GMT,Feb 27 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+tnsic.gov.in,tnsic.gov.in,443,ok,tnsic.gov.in,YR2,,Sep  8 04:14:46 2026 GMT,Dec  7 04:14:45 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tnsta.gov.in,tnsta.gov.in,443,ok,tnsta.gov.in,Sectigo Public Server Authentication CA DV R36,,May 19 00:00:00 2026 GMT,Dec  3 23:59:59 2026 GMT,no,,USERTrust RSA Certification Authority,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),200,no
+tnstc.in,tnstc.in,443,ok,www.tnstc.in,Go Daddy Secure Certificate Authority - G2,,Jan  2 05:33:56 2026 GMT,Jan  5 08:14:36 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,Go Daddy Secure Certificate Authority - G2; Go Daddy Root Certificate Authority - G2,0 (ok),301,no
+tnswp.com,tnswp.com,443,ok,*.tnswp.com,Amazon RSA 2048 M04,,Jun 18 00:00:00 2026 GMT,Jan  1 23:59:59 2027 GMT,no,,,Amazon RSA 2048 M04; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),302,no
+tntenders.gov.in,tntenders.gov.in,443,ok,tntenders.gov.in,YR2,,Sep 30 04:54:15 2026 GMT,Dec 29 04:54:14 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tnteu.ac.in,tnteu.ac.in,443,ok,tnteu.ac.in,RapidSSL TLS RSA CA G1,,Sep  9 00:00:00 2026 GMT,Mar 26 23:59:59 2027 GMT,no,,,RapidSSL TLS RSA CA G1; DigiCert Global Root G2,0 (ok),200,no
+tntourismawards.com,tntourismawards.com,443,ok,tntourismawards.com,YR2,,Jul 30 10:13:58 2026 GMT,Oct 28 10:13:57 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tntourismtors.com,tntourismtors.com,443,ok,tntourismtors.com,YR2,,Jul 30 10:07:15 2026 GMT,Oct 28 10:07:14 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+tnuifsl.com,tnuifsl.com,443,ok,*.netsolhost.com,Sectigo Public Server Authentication CA DV R36,,Jun 16 00:00:00 2026 GMT,Dec 31 23:59:59 2026 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; USERTrust RSA Certification Authority,0 (ok),200,no
+tnwakfboard.org,tnwakfboard.org,443,ok,tnwakfboard.org,WE1,,Oct  6 13:47:23 2026 GMT,Jan  4 14:45:58 2027 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),000,no
+tnwec.com,tnwec.com,443,ok,tnwec.com,WE1,,Sep 17 15:19:58 2026 GMT,Dec 16 16:19:49 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+tnwildscapes.com,tnwildscapes.com,443,ok,tnwildscapes.com,WE1,,Sep 28 12:17:15 2026 GMT,Dec 27 13:15:45 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+trektamilnadu.com,trektamilnadu.com,443,ok,trektamilnadu.com,WE1,,Sep 25 08:05:41 2026 GMT,Dec 24 09:05:38 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),200,no
+trichymasterplan.com,trichymasterplan.com,443,ok,trichymasterplan.com,YR2,,Oct 19 02:16:41 2026 GMT,Jan 17 02:16:40 2027 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+ttdconline.com,ttdconline.com,443,ok,ttdconline.com,Sectigo Public Server Authentication CA DV R36,,Oct 25 00:00:00 2025 GMT,Oct 25 23:59:59 2026 GMT,no,,,Sectigo Public Server Authentication CA DV R36; Sectigo Public Server Authentication Root R46; AAA Certificate Services,0 (ok),301,no
+tvu.edu.in,tvu.edu.in,443,ok,tvu.edu.in,WE1,,Sep 17 06:01:28 2026 GMT,Dec 16 06:59:59 2026 GMT,no,,,WE1; GTS Root R4; GlobalSign Root CA,0 (ok),403,no
+umisdashboard.tnega.org,umisdashboard.tnega.org,443,ok,*.tnega.org,Amazon RSA 2048 M01,,Jun  6 00:00:00 2026 GMT,Dec 20 23:59:59 2026 GMT,no,,,Amazon RSA 2048 M01; Amazon Root CA 1; Starfield Services Root Certificate Authority - G2,0 (ok),200,no
+unom.ac.in,unom.ac.in,443,ok,*.unom.ac.in,GoDaddy TLS Intermediate CA DV - R1v1,,Aug 20 09:52:23 2026 GMT,Mar  6 09:52:23 2027 GMT,no,,Go Daddy Root Certificate Authority - G2,GoDaddy TLS Intermediate CA DV - R1v1; GoDaddy TLS Root CA - R1; Go Daddy Root Certificate Authority - G2,0 (ok),200,no
+vellore.nic.in,vellore.nic.in,443,ok,vellore.nic.in,YR2,,Sep 29 05:00:47 2026 GMT,Dec 28 05:00:46 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+viluppuram.nic.in,viluppuram.nic.in,443,ok,viluppuram.nic.in,YR2,,Sep 17 15:30:34 2026 GMT,Dec 16 15:30:33 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+virudhunagar.nic.in,virudhunagar.nic.in,443,ok,virudhunagar.nic.in,YR2,,Sep 17 15:30:37 2026 GMT,Dec 16 15:30:36 2026 GMT,no,,,YR2; Root YR; ISRG Root X1,0 (ok),200,no
+annacentenarylibrary.org,annacentenarylibrary.org,,no-tls (40378AFE63780000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:No address associated),,,,,,,,,,,,
+kaval.arspolice.gov.in,arspolice.gov.in,,no-tls (40078ACD27700000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+autmdu.in,autmdu.in,,no-tls (timeout),,,,,,,,,,,,
+chennairivers.gov.in,chennairivers.gov.in,,no-tls (40B78665D6780000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Temporary failure in ),,,,,,,,,,,,
+coimbatorecitypolice.com,coimbatorecitypolice.com,,no-tls (timeout),,,,,,,,,,,,
+coimbatoregst.gov.in,coimbatoregst.gov.in,,no-tls (timeout),,,,,,,,,,,,
+cooptex.gov.in,cooptex.gov.in,,no-tls (timeout),,,,,,,,,,,,
+elcot.in,elcot.in,,no-tls (timeout),,,,,,,,,,,,
+gct.ac.in,gct.ac.in,,no-tls (timeout),,,,,,,,,,,,
+governmentmuseumchennai.org,governmentmuseumchennai.org,,no-tls (40F7A1C748760000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+ptbe-tnea.com,ptbe-tnea.com,,no-tls (4007ED70727F0000:error:80000071:system library:BIO_connect:No route to host:../crypto/bio/bio_sock2.c:183:calling connec),,,,,,,,,,,,
+pudhumaipenn.tnega.org,pudhumaipenn.tnega.org,,no-tls (timeout),,,,,,,,,,,,
+tangedco.org,tangedco.org,,no-tls (40A7291AC77B0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:No address associated),,,,,,,,,,,,
+tanhoda.gov.in,tanhoda.gov.in,,no-tls (406722DEC9790000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tenkasi.nic.in,tenkasi.nic.in,,no-tls (timeout),,,,,,,,,,,,
+adidravidar.tn.gov.in,tn.gov.in,,no-tls (40A7036052730000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+chennaimetrowater.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+cma.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+cmcell.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+coimbatorecorporation.tn.gov.in,tn.gov.in,,no-tls (40D76C12E8740000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+cra.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+crdpr.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+ctd.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+dbt.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+dge.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+dgeverification.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+dindigulcorporation.tn.gov.in,tn.gov.in,,no-tls (40D769DC84740000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+dish.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+dme.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+drugscontrol.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+dte.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+dvac.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+easybusiness.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+elections.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+epayandreceive.tn.gov.in,tn.gov.in,,no-tls (404789F9E37F0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+epension.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+erodecorporation.tn.gov.in,tn.gov.in,,no-tls (40D7AA709A710000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+forensic.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+gdp.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+itnanban.tn.gov.in,tn.gov.in,,no-tls (40770C4EF1700000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+maduraicorporation.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+mipb.tn.gov.in,tn.gov.in,,no-tls (4057E88AD17B0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+mtm.tn.gov.in,tn.gov.in,,no-tls (40572CCB617C0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+nagercoilcorporation.tn.gov.in,tn.gov.in,,no-tls (40B76231B27E0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+pwd.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+tansche.tn.gov.in,tn.gov.in,,no-tls (40D7464A64730000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tenders.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+thanjavurcorporation.tn.gov.in,tn.gov.in,,no-tls (4047CF9E907A0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+thoothukudicorporation.tn.gov.in,tn.gov.in,,no-tls (40E7A19B05790000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tiruppurcorporation.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+tnagmark.tn.gov.in,tn.gov.in,,no-tls (4047ED4FE5750000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnbb.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+tncpcr.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+tnhb.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+tnism.tn.gov.in,tn.gov.in,,no-tls (405782F46F740000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnkvib.tn.gov.in,tn.gov.in,,no-tls (4087AF27937A0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnlokayukta.tn.gov.in,tn.gov.in,,no-tls (40D710F956750000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnprb.tn.gov.in,tn.gov.in,,no-tls (40678DDBC2700000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnsand.tn.gov.in,tn.gov.in,,no-tls (40B729679B760000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnurbaneseva.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+transport.tn.gov.in,tn.gov.in,,no-tls (40B724CEF7770000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+umis.tn.gov.in,tn.gov.in,,no-tls (timeout),,,,,,,,,,,,
+vellorecorporation.tn.gov.in,tn.gov.in,,no-tls (40C762C495700000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnarch.gov.in,tnarch.gov.in,,no-tls (timeout),,,,,,,,,,,,
+tnebltd.org,tnebltd.org,,no-tls (40F703F0E5710000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:No address associated),,,,,,,,,,,,
+tnenvis.nic.in,tnenvis.nic.in,,no-tls (40D784F827760000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnerc.gov.in,tnerc.gov.in,,no-tls (timeout),,,,,,,,,,,,
+tnius.org,tnius.org,,no-tls (timeout),,,,,,,,,,,,
+tniuscbe.org,tniuscbe.org,,no-tls (timeout),,,,,,,,,,,,
+tnlsa.gov.in,tnlsa.gov.in,,no-tls (4077AA3A5F790000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnpharmacycouncil.org,tnpharmacycouncil.org,,no-tls (40B76B50967A0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnpowerfinance.com,tnpowerfinance.com,,no-tls (timeout),,,,,,,,,,,,
+tnrd.gov.in,tnrd.gov.in,,no-tls (4007F347507E0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:No address associated),,,,,,,,,,,,
+tnrera.in,tnrera.in,,no-tls (4047C2D934740000:error:8000006F:system library:BIO_connect:Connection refused:../crypto/bio/bio_sock2.c:183:calling conn),,,,,,,,,,,,
+tnresults.nic.in,tnresults.nic.in,,no-tls (timeout),,,,,,,,,,,,
+tnstc.gov.in,tnstc.gov.in,,no-tls (40E721A23E7F0000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Temporary failure in ),,,,,,,,,,,,
+tnvat.gov.in,tnvat.gov.in,,no-tls (40D73FDAE9780000:error:10080002:BIO routines:BIO_lookup_ex:system lib:../crypto/bio/bio_addr.c:767:Name or service not k),,,,,,,,,,,,
+tnvelaivaaippu.gov.in,tnvelaivaaippu.gov.in,,no-tls (timeout),,,,,,,,,,,,
+trichycorporation.gov.in,trichycorporation.gov.in,,no-tls (timeout),,,,,,,,,,,,
