@@ -24,18 +24,21 @@ aphwcl.nic.in,aphwcl.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, dir
 www.aphwcl.nic.in,aphwcl.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),404,no
 apindustries.gov.in,apindustries.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 www.apindustries.gov.in,apindustries.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
-www.apindustries.gov.in,apindustries.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
-apnc.nic.in,apnc.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
+apnc.nic.in,apnc.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.apnc.nic.in,apnc.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 apsc.nic.in,apsc.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 aranya.gov.in,aranya.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.aranya.gov.in,aranya.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
+arpit.gov.in,arpit.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),302,no
+www.arpit.gov.in,arpit.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),302,no
+arunachalplan.gov.in,arunachalplan.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.arunachalplan.gov.in,arunachalplan.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 attendance.gov.in,attendance.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 sso.attendance.gov.in,attendance.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.attendance.gov.in,attendance.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 ayush.gov.in,ayush.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.ayush.gov.in,ayush.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
-yoga.ayush.gov.in,ayush.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+yoga.ayush.gov.in,ayush.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 bangalorecustoms.gov.in,bangalorecustoms.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.bangalorecustoms.gov.in,bangalorecustoms.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 sec.bihar.gov.in,bihar.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),200,YES
@@ -48,22 +51,23 @@ bopter.gov.in,bopter.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-on
 www.bopter.gov.in,bopter.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 brahmaputraboard.gov.in,brahmaputraboard.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.brahmaputraboard.gov.in,brahmaputraboard.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
-britatom.gov.in,britatom.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+britatom.gov.in,britatom.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,,,
+www.britatom.gov.in,britatom.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 new.broadcastseva.gov.in,broadcastseva.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),302,no
 www.broadcastseva.gov.in,broadcastseva.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),302,no
 burdwanmunicipality.gov.in,burdwanmunicipality.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),200,no
 www.burdwanmunicipality.gov.in,burdwanmunicipality.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),200,no
 agkar.cag.gov.in,cag.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),503,no
 cca.gov.in,cca.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
-www.cca.gov.in,cca.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
+www.cca.gov.in,cca.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.cci.gov.in,cci.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 ccobz.gov.in,ccobz.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.ccobz.gov.in,ccobz.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
-ccras.nic.in,ccras.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+ccras.nic.in,ccras.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 cec.nic.in,cec.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),302,no
 www.cec.nic.in,cec.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),302,no
-censusindia.gov.in,censusindia.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),000,no
-www.censusindia.gov.in,censusindia.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),000,no
+censusindia.gov.in,censusindia.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),302,no
+www.censusindia.gov.in,censusindia.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),302,no
 apps.cept.gov.in,cept.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 cept.gov.in,cept.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 www.cept.gov.in,cept.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),503,no
@@ -75,7 +79,7 @@ www.cmrf.cg.gov.in,cg.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-o
 www.highereducation.cg.gov.in,cg.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 khadya.cg.nic.in,cg.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),301,no
 www.khadya.cg.nic.in,cg.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),404,no
-cgaoa.gov.in,cgaoa.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),500,no
+cgaoa.gov.in,cgaoa.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
 www.cgaoa.gov.in,cgaoa.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),500,no
 cgdif.nic.in,cgdif.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 www.cgdif.nic.in,cgdif.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
@@ -93,6 +97,7 @@ www.chandigarhtourism.gov.in,chandigarhtourism.gov.in,EM DV TLS CA - G2A-1,"emSi
 ctuonline.chd.gov.in,chd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 eawas.chd.gov.in,chd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 reeut.chd.gov.in,chd.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),403,YES
+sportsdeptt.chd.gov.in,chd.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),000,no
 www.ctuonline.chd.gov.in,chd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.eawas.chd.gov.in,chd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 www.reeut.chd.gov.in,chd.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),403,YES
@@ -110,9 +115,10 @@ www.chdfood.gov.in,chdfood.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 
 chdit.gov.in,chdit.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),301,no
 www.chdit.gov.in,chdit.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no
 chdpr.gov.in,chdpr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),000,no
-www.chdpr.gov.in,chdpr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),200,no
+www.chdpr.gov.in,chdpr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),000,no
 chdsw.gov.in,chdsw.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),200,no
 www.chdsw.gov.in,chdsw.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),200,no
+www.chennaiport.gov.in,chennaiport.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 chips.gov.in,chips.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 www.chips.gov.in,chips.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 cicef.gov.in,cicef.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
@@ -141,13 +147,13 @@ csb.gov.in,csb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-
 www.csb.gov.in,csb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 www.cstaricalcutta.gov.in,cstaricalcutta.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 ctri.nic.in,ctri.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
-www.ctri.nic.in,ctri.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+www.ctri.nic.in,ctri.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 cvc.gov.in,cvc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.cvc.gov.in,cvc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 cybercrime.gov.in,cybercrime.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 dadfonline.gov.in,dadfonline.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.dadfonline.gov.in,dadfonline.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
-www.nbhm.dae.gov.in,dae.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),000,no
+www.nbhm.dae.gov.in,dae.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),301,no
 cluster.dcmsme.gov.in,dcmsme.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 dcmsme.gov.in,dcmsme.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 msmedi.dcmsme.gov.in,dcmsme.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
@@ -158,12 +164,14 @@ www.dcsem.gov.in,dcsem.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-
 ddvat.gov.in,ddvat.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.ddvat.gov.in,ddvat.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 edistrict.delhigovt.nic.in,delhigovt.nic.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),302,no
+www.dpcc.delhigovt.nic.in,delhigovt.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),302,YES
 www.delhitourism.gov.in,delhitourism.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.derc.gov.in,derc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.desw.gov.in,desw.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 dfpd.gov.in,dfpd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.dfpd.gov.in,dfpd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),404,no
 digitalsky.dgca.gov.in,dgca.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),301,YES
+www.dghindia.gov.in,dghindia.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 www.digitalgujarat.gov.in,digitalgujarat.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),200,no
 dirbcglab.gov.in,dirbcglab.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,10 (certificate has expired),200,YES
 www.dirbcglab.gov.in,dirbcglab.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,10 (certificate has expired),200,YES
@@ -179,8 +187,9 @@ www.dpsdae.gov.in,dpsdae.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (M
 www.dssc.gov.in,dssc.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 dstetripura.nic.in,dstetripura.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
 www.dstetripura.nic.in,dstetripura.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
-www.dvc.gov.in,dvc.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
-e-nagarsewaup.gov.in,e-nagarsewaup.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.dtekerala.gov.in,dtekerala.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+www.dvc.gov.in,dvc.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),405,no
+e-nagarsewaup.gov.in,e-nagarsewaup.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,,,
 www.e-nagarsewaup.gov.in,e-nagarsewaup.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 eaindustry.nic.in,eaindustry.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 www.eaindustry.nic.in,eaindustry.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
@@ -193,10 +202,11 @@ www.eicindia.gov.in,eicindia.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G
 employmentbankwb.gov.in,employmentbankwb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.employmentbankwb.gov.in,employmentbankwb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),400,no
 www.enforcementdirectorate.gov.in,enforcementdirectorate.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
+epolclearance.gov.in,epolclearance.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.epolclearance.gov.in,epolclearance.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 epostr.gov.in,epostr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),405,no
 www.epostr.gov.in,epostr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),405,no
 esiwb.gov.in,esiwb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
-www.esiwb.gov.in,esiwb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.esiwb.gov.in,esiwb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.fci.gov.in,fci.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
 fsi.gov.in,fsi.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
@@ -213,18 +223,23 @@ ghconline.gov.in,ghconline.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 
 www.ghconline.gov.in,ghconline.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 gmch.gov.in,gmch.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 www.gmch.gov.in,gmch.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
+www.gpcwkandaghat.nic.in,gpcwkandaghat.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
 www.greentribunal.gov.in,greentribunal.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 grmb.gov.in,grmb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.grmb.gov.in,grmb.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
+gstchennai.gov.in,gstchennai.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),200,no
+www.gstchennai.gov.in,gstchennai.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),301,no
 gstdelhizone.gov.in,gstdelhizone.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.gstdelhizone.gov.in,gstdelhizone.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 highcourtchd.gov.in,highcourtchd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 www.highcourtchd.gov.in,highcourtchd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 himachalrajbhavan.nic.in,himachalrajbhavan.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,10 (certificate has expired),200,YES
 www.himachalrajbhavan.nic.in,himachalrajbhavan.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,10 (certificate has expired),200,YES
+www.himbhoomilmk.nic.in,himbhoomilmk.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 hpmc.gov.in,hpmc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),302,no
 www.hpmc.gov.in,hpmc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),301,no
-hppcl.gov.in,hppcl.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
+hppcl.gov.in,hppcl.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,,,
+www.hppcl.gov.in,hppcl.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
 fri.icfre.gov.in,icfre.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 hfri.icfre.gov.in,icfre.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 icfre.gov.in,icfre.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
@@ -236,7 +251,7 @@ www.ignfa.gov.in,ignfa.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-
 igrua.gov.in,igrua.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.igrua.gov.in,igrua.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 apps.ikm.gov.in,ikm.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
-www.ikm.gov.in,ikm.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+www.ikm.gov.in,ikm.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),400,no
 hydro.imd.gov.in,imd.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),404,no
 metnet.imd.gov.in,imd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.indianairforce.gov.in,indianairforce.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),200,no
@@ -247,71 +262,69 @@ indiapost.gov.in,indiapost.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 
 www.indiapost.gov.in,indiapost.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),406,no
 indiascienceandtechnology.gov.in,indiascienceandtechnology.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 www.indiascienceandtechnology.gov.in,indiascienceandtechnology.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+ipindiaonline.gov.in,ipindiaonline.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 www.isea.gov.in,isea.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 jakemp.nic.in,jakemp.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,10 (certificate has expired),404,YES
 www.jakemp.nic.in,jakemp.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,10 (certificate has expired),404,YES
 jeevanpramaan.gov.in,jeevanpramaan.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 www.jeevanpramaan.gov.in,jeevanpramaan.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 jkgad.nic.in,jkgad.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
+jkhc.gov.in,jkhc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
+www.jkhc.gov.in,jkhc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 jkhighcourt.nic.in,jkhighcourt.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.jkhighcourt.nic.in,jkhighcourt.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 jnport.gov.in,jnport.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 www.jnport.gov.in,jnport.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
-judicialacademy.nic.in,judicialacademy.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1; emSign Root CA - G1,0 (ok),000,no
-www.judicialacademy.nic.in,judicialacademy.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1; emSign Root CA - G1,0 (ok),200,no
+judicialacademy.nic.in,judicialacademy.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1; emSign Root CA - G1,0 (ok),200,no
+www.judicialacademy.nic.in,judicialacademy.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1; emSign Root CA - G1,0 (ok),000,no
 kla.kar.nic.in,kar.nic.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.kla.kar.nic.in,kar.nic.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 www.samrakshane.karnataka.gov.in,karnataka.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.karnatakapost.gov.in,karnatakapost.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),200,no
-arc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),403,no
-culturedirectorate.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),000,no
-egroops.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+arc.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),403,no
+culturedirectorate.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),403,no
+egroops.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 gad.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 highereducation.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no
 jalanidhi.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,YES
 kirtads.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
-ksacs.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+ksacs.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 ksc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 kslub.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
-ksywb.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),000,no
-texfed.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
-www.ahd.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+ksywb.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),403,no
+texfed.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
+www.ahd.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),301,no
 www.akshaya.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
-www.arc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),403,no
-www.arc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),403,no
+www.arc.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),403,no
 www.clr.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
-www.coir.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),403,no
-www.culturedirectorate.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),000,no
+www.coir.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),403,no
+www.culturedirectorate.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),403,no
 www.dcescholarship.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
-www.e-housing.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),404,no
+www.e-housing.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+www.edistrict.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),000,no
 www.egroops.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),404,no
 www.fisheries.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
-www.gack.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+www.gack.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 www.gad.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
-www.groundwater.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+www.groundwater.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 www.highereducation.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no
-www.ildm.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),000,no
+www.ildm.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),000,no
 www.img.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),301,no
 www.itmission.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),301,no
 www.jalanidhi.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
-www.jalanidhi.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
-www.kirtads.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
+www.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,YES
 www.kirtads.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 www.ksacs.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 www.ksc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
-www.ksc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
-www.ksfdrc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
 www.ksfdrc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
-www.kslub.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
-www.kslub.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
-www.ksywb.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),000,no
-www.ksywb.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),403,no
+www.kslub.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
+www.ksywb.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),403,no
 www.lc.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),301,no
 www.livestock.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 www.sabarimala.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
-www.scdd.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),000,no
+www.scdd.kerala.gov.in,kerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,20 (unable to get local issuer certificate),000,no
 www.scert.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),301,no
-www.texfed.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
 www.texfed.kerala.gov.in,kerala.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 www.keralaprisons.gov.in,keralaprisons.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 krmb.gov.in,krmb.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),302,no
@@ -330,39 +343,49 @@ mis.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA -
 portal.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
 tax.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 tender.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
-welfarepension.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+welfarepension.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 www.cr.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
 www.go.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.karunagappally.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
 www.kottakkal.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
 www.kpepf.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
 www.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
-www.maradu.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
-www.plan.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+www.maradu.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,,,
+www.nilambur.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+www.nileshwar.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+www.plan.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.tax.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 www.tender.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
 www.thrikkakara.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
-www.welfarepension.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+www.welfarepension.lsgkerala.gov.in,lsgkerala.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 mahabhunakasha.mahabhumi.gov.in,mahabhumi.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 apps.mahaforest.gov.in,mahaforest.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,10 (certificate has expired),200,YES
 mahaforest.gov.in,mahaforest.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.mahaforest.gov.in,mahaforest.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
-mahagst.gov.in,mahagst.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),000,no
-webmail.mahapwd.gov.in,mahapwd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),000,no
-industry.maharashtra.gov.in,maharashtra.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),200,YES
-www.industry.maharashtra.gov.in,maharashtra.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),301,YES
+mahagst.gov.in,mahagst.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),301,no
+www.mahagst.gov.in,mahagst.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
+webmail.mahapwd.gov.in,mahapwd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),200,no
+industry.maharashtra.gov.in,maharashtra.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.industry.maharashtra.gov.in,maharashtra.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
+www.mmrda.maharashtra.gov.in,maharashtra.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),301,no
 mcchandigarh.gov.in,mcchandigarh.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),401,no
 www.mcchandigarh.gov.in,mcchandigarh.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
-mgov.gov.in,mgov.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+mgov.gov.in,mgov.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),405,no
 services.mgov.gov.in,mgov.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),405,no
 www.mgov.gov.in,mgov.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),400,no
+minorityaffairs.gov.in,minorityaffairs.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),200,no
+www.minorityaffairs.gov.in,minorityaffairs.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),200,no
+mmtclimited.gov.in,mmtclimited.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.mmtclimited.gov.in,mmtclimited.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),400,no
 mobileseva.gov.in,mobileseva.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),400,no
 www.mobileseva.gov.in,mobileseva.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),400,no
-mofpi.nic.in,mofpi.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,10 (certificate has expired),000,YES
-www.mofpi.nic.in,mofpi.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,10 (certificate has expired),000,YES
+mofpi.nic.in,mofpi.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,10 (certificate has expired),302,YES
+www.mofpi.nic.in,mofpi.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,10 (certificate has expired),302,YES
 moil.nic.in,moil.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),307,no
 www.moil.nic.in,moil.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),307,no
 mospi.gov.in,mospi.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.mospi.gov.in,mospi.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+mowr.nic.in,mowr.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no
 asha.mp.gov.in,mp.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),200,YES
 www.asha.mp.gov.in,mp.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),200,YES
 www.dif.mp.gov.in,mp.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
@@ -371,53 +394,64 @@ www.msmc.gov.in,msmc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-on
 msmediagra.gov.in,msmediagra.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),500,no
 www.msmediagra.gov.in,msmediagra.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 www.naac.gov.in,naac.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.nccr.gov.in,nccr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 apps.ncpcr.gov.in,ncpcr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 mis.ncpcr.gov.in,ncpcr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 ncpcr.gov.in,ncpcr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
+ncrpb.nic.in,ncrpb.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.ncrpb.nic.in,ncrpb.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+ndal-alis.gov.in,ndal-alis.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1; ndal-alis.gov.in,0 (ok),403,no
 www.ndal-alis.gov.in,ndal-alis.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1; ndal-alis.gov.in,0 (ok),403,no
+ndfdc.nic.in,ndfdc.nic.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
+ndma.gov.in,ndma.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+www.ndma.gov.in,ndma.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.ndrf.gov.in,ndrf.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+necouncil.gov.in,necouncil.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
 www.necouncil.gov.in,necouncil.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
 www.nfc.gov.in,nfc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 nfscnagpur.nic.in,nfscnagpur.nic.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),200,no
 www.nfscnagpur.nic.in,nfscnagpur.nic.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),403,no
 ngodarpan.gov.in,ngodarpan.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.ngodarpan.gov.in,ngodarpan.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+nha.gov.in,nha.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+sso.nha.gov.in,nha.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.nhmharyana.gov.in,nhmharyana.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 niphm.gov.in,niphm.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
 www.niphm.gov.in,niphm.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),403,no
-www.nisd.gov.in,nisd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),503,no
+www.nisd.gov.in,nisd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.nja.gov.in,nja.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 nma.gov.in,nma.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.nma.gov.in,nma.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 nmanoc.gov.in,nmanoc.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,10 (certificate has expired),200,YES
 www.nmanoc.gov.in,nmanoc.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,10 (certificate has expired),200,YES
 nmcg.nic.in,nmcg.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
-www.nmcg.nic.in,nmcg.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
+www.nmcg.nic.in,nmcg.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),302,no
 nqr.gov.in,nqr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,0 (ok),200,no
 www.nqr.gov.in,nqr.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,0 (ok),200,no
 nrhmchd.gov.in,nrhmchd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.nrhmchd.gov.in,nrhmchd.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
-nsp.gov.in,nsp.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
+www.nsdiindia.gov.in,nsdiindia.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),000,YES
+nsp.gov.in,nsp.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
 www.nsp.gov.in,nsp.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
 mis.nth.gov.in,nth.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),200,no
-nth.gov.in,nth.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),000,no
-www.nth.gov.in,nth.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),000,no
+nth.gov.in,nth.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),301,no
+www.nth.gov.in,nth.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),301,no
 nvbdcp.gov.in,nvbdcp.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 www.nvbdcp.gov.in,nvbdcp.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 nwda.gov.in,nwda.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 www.nwda.gov.in,nwda.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 ociservices.gov.in,ociservices.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
 www.ociservices.gov.in,ociservices.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
-odishapost.gov.in,odishapost.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),000,YES
+odishapost.gov.in,odishapost.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),302,YES
 www.odishapost.gov.in,odishapost.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),404,YES
 odishatreasury.gov.in,odishatreasury.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 www.odishatreasury.gov.in,odishatreasury.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
-www.odishatreasury.gov.in,odishatreasury.gov.in,EM EV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 packolkata.gov.in,packolkata.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no
 www.packolkata.gov.in,packolkata.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no
+pariksha.nic.in,pariksha.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 patnahighcourt.gov.in,patnahighcourt.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 www.patnahighcourt.gov.in,patnahighcourt.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
-online.peso.gov.in,peso.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+online.peso.gov.in,peso.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 peso.gov.in,peso.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 www.peso.gov.in,peso.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 phedharyana.gov.in,phedharyana.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),404,no
@@ -429,7 +463,7 @@ www.postagestamps.gov.in,postagestamps.gov.in,EM DV TLS CA - G2A-1,"emSign Root 
 presscouncil.nic.in,presscouncil.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,10 (certificate has expired),200,YES
 www.presscouncil.nic.in,presscouncil.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,10 (certificate has expired),200,YES
 psa.gov.in,psa.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
-www.psa.gov.in,psa.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+www.psa.gov.in,psa.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 ptcmysore.gov.in,ptcmysore.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
 www.ptcmysore.gov.in,ptcmysore.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),503,no
 punjabrajbhavan.gov.in,punjabrajbhavan.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
@@ -437,6 +471,7 @@ www.punjabrajbhavan.gov.in,punjabrajbhavan.gov.in,EM DV TLS CA - G2A-1,"emSign R
 rajbhasha.gov.in,rajbhasha.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 raknpa.gov.in,raknpa.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),200,YES
 www.raknpa.gov.in,raknpa.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,10 (certificate has expired),503,YES
+www.recindia.nic.in,recindia.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services; emSign Root CA - G1,19 (self-signed certificate in certificate chain),301,no
 revenueharyana.gov.in,revenueharyana.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 rodra.gov.in,rodra.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.rodra.gov.in,rodra.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
@@ -444,9 +479,10 @@ www.rrbbnc.gov.in,rrbbnc.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (M
 online.rrrlf.gov.in,rrrlf.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),302,no
 rrrlf.gov.in,rrrlf.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.rrrlf.gov.in,rrrlf.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
+sampada-mofpi.gov.in,sampada-mofpi.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 scholarships.gov.in,scholarships.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
 www.scholarships.gov.in,scholarships.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
-www.sfio.nic.in,sfio.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services,19 (self-signed certificate in certificate chain),000,no
+www.sfio.nic.in,sfio.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",AAA Certificate Services,19 (self-signed certificate in certificate chain),301,no
 sicldr.gov.in,sicldr.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no
 www.spl.gov.in,spl.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),301,no
 www.sportsauthorityofindia.gov.in,sportsauthorityofindia.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
@@ -466,8 +502,8 @@ www.transport.tripura.gov.in,tripura.gov.in,EM DV TLS CA - G2A-1,"emSign Root TL
 www.tsmc.tripura.gov.in,tripura.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
 tripuranrhm.gov.in,tripuranrhm.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 www.tripuranrhm.gov.in,tripuranrhm.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
-www.ucil.gov.in,ucil.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
-udyogaadhaar.gov.in,udyogaadhaar.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
+www.ucil.gov.in,ucil.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),301,no
+udyogaadhaar.gov.in,udyogaadhaar.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 www.udyogaadhaar.gov.in,udyogaadhaar.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),302,no
 nfsa.up.gov.in,up.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 scm.up.gov.in,up.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
@@ -477,20 +513,22 @@ finance.up.nic.in,up.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-on
 localbodies.up.nic.in,up.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),200,no
 lokayukta.up.nic.in,up.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,21 (unable to verify the first certificate),200,no
 sec.up.nic.in,up.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),404,no
-uparchives.up.nic.in,up.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),000,no
-uppsc.up.nic.in,up.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
-upcane.gov.in,upcane.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
+uparchives.up.nic.in,up.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",emSign Root CA - G1,0 (ok),200,no
+uppsc.up.nic.in,up.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),404,no
+urbandevelopment.up.nic.in,up.nic.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),000,no
+upcane.gov.in,upcane.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
 www.upcane.gov.in,upcane.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 upforest.gov.in,upforest.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
-www.upforest.gov.in,upforest.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
-upparliamentaryaffairs.gov.in,upparliamentaryaffairs.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),000,no
+www.upforest.gov.in,upforest.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
+upparliamentaryaffairs.gov.in,upparliamentaryaffairs.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 www.upparliamentaryaffairs.gov.in,upparliamentaryaffairs.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
-urducouncil.nic.in,urducouncil.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),000,no
+urducouncil.nic.in,urducouncil.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",emSign Root CA - G1,0 (ok),200,no
 vamnicom.gov.in,vamnicom.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),405,no
 www.vamnicom.gov.in,vamnicom.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),405,no
-www.vamnicom.gov.in,vamnicom.gov.in,EM OV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),405,no
+videshapps.gov.in,videshapps.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
+www.videshapps.gov.in,videshapps.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),302,no
 vvgnli.gov.in,vvgnli.gov.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,0 (ok),200,no
 sso.wbphed.gov.in,wbphed.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),302,no
 www.wbphed.gov.in,wbphed.gov.in,EM DV TLS CA - G2A-1,"emSign Root TLS CA - G1 (MS-only, x-signed by legacy G1)",,0 (ok),301,no
-www.yogamdniy.nic.in,yogamdniy.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),000,no
-yogamdniy.nic.in,yogamdniy.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),000,no
+www.yogamdniy.nic.in,yogamdniy.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no
+yogamdniy.nic.in,yogamdniy.nic.in,emSign SSL CA - G1,"emSign Root CA - G1 (legacy, direct)",,21 (unable to verify the first certificate),200,no

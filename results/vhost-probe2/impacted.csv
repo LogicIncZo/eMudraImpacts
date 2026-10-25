@@ -1,0 +1,2 @@
+host,domain,port,tls,leaf_cn,leaf_issuer,leaf_org,notBefore,notAfter,impacted,matched_intermediates,chain_roots,chain_issuers,verify_code,http_status,expired
+sso.nha.gov.in,nha.gov.in,443,ok,*.nha.gov.in,EM DV TLS CA - G2A-1,,Sep 29 06:13:11 2026 GMT,Dec 28 06:13:11 2026 GMT,EMSIGN-FAMILY,EM DV TLS CA - G2A-1; emSign Root CA - G1; emSign Root TLS CA - G1,emSign Root CA - G1,EM DV TLS CA - G2A-1; emSign Root TLS CA - G1; emSign Root CA - G1,0 (ok),200,no

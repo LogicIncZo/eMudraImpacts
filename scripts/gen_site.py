@@ -17,11 +17,27 @@ g3 = list(csv.DictReader(open("results/g3-impact-list.csv")))
 for f_ in ("impacted-domains-summary.csv", "g1-impact-list.csv", "g3-impact-list.csv"):
     shutil.copy(f"results/{f_}", f"docs/data/{f_}")
 shutil.copy("results/impacted.csv", "docs/data/impacted-hosts.csv")
-shutil.copy("data/gov-domains.txt", "docs/data/gov-domains.txt")
+
+
+def load_lines(p):
+    return {l.strip().lower() for l in open(p) if l.strip()} if os.path.exists(p) else set()
+
+
+registry = load_lines("data/gov-domains.txt")
+igod_new = {d for d in load_lines("data/igod-domains.txt") if "_" not in d}
+crawl_new = {d for d in load_lines("data/discovered-domains.txt") if "_" not in d}
+universe = registry | igod_new | crawl_new
+n_registry, n_igod, n_crawl = len(registry), len(igod_new - registry), len(crawl_new - registry - igod_new)
+with open("docs/data/gov-domains.txt", "w") as f:
+    f.write("\n".join(sorted(universe)) + "\n")
+
+scan_rows = list(csv.DictReader(open("results/scan-all.csv")))
+PROBED = len(scan_rows)
+TLS_OK = sum(1 for r in scan_rows if r["tls"] == "ok")
 
 SCAN_DATE = "2026-10-24"
-DOMS_SCANNED, HOSTS_CAND = 9670, 17166
-TLS_OK = 6024
+DOMS_SCANNED = len(universe)
+HOSTS_CAND = PROBED
 n_dom = len(summary)
 n_host = len(g1) + len(g3)
 n_expired = sum(int(r["expired_leaves"]) for r in summary)
@@ -128,6 +144,19 @@ Legacy <code>emSign Root CA - G1</code> is <em>not</em> removed yet — Chrome i
 <div class="card"><div class="n">{n_expired}</div><div class="l">G1 leaves already expired</div></div>
 </div>
 
+<h2>Impact surface — how the universe was built</h2>
+<p>The scan universe is assembled from three sources so that sites absent from any single
+registry still get covered:</p>
+<div class="cards">
+<div class="card"><div class="n">{n_registry:,}</div><div class="l">domains — registry dump (IGOD-derived list)</div></div>
+<div class="card"><div class="n">{n_igod}</div><div class="l">new domains — IGOD web-directory dump (36 states/UTs)</div></div>
+<div class="card"><div class="n">{n_crawl}</div><div class="l">new domains — homepage/robots/sitemap link crawl</div></div>
+<div class="card"><div class="n">{DOMS_SCANNED:,}</div><div class="l">total universe scanned</div></div>
+<div class="card"><div class="n">{PROBED:,}</div><div class="l">endpoints probed (apex + www, :443/:8443)</div></div>
+<div class="card"><div class="n">{TLS_OK:,}</div><div class="l">endpoints serving TLS</div></div>
+<div class="card hot"><div class="n">{n_host}</div><div class="l">emSign-family endpoints ({n_host * 100 // max(TLS_OK, 1)}% of TLS surface)</div></div>
+</div>
+
 <h2 id="g3">G3 impact list — compromised intermediates</h2>
 <p>These chains break immediately: Microsoft blocks the intermediates since 2026-10-20, Mozilla NSS dropped
 <code>emSign ECC Root CA - G3</code> the same day, and Chrome removes the root on 2026-10-27. The Sectigo AAA cross-sign
@@ -168,15 +197,21 @@ recommended action, planned rather than emergency.</p>
 <li><a href="data/g3-impact-list.csv">g3-impact-list.csv</a> — G3/compromised-intermediate list (currently header-only)</li>
 <li><a href="data/impacted-domains-summary.csv">impacted-domains-summary.csv</a> — one row per domain (table above)</li>
 <li><a href="data/impacted-hosts.csv">impacted-hosts.csv</a> — combined raw impacted-host scan output</li>
-<li><a href="data/gov-domains.txt">gov-domains.txt</a> — the {DOMS_SCANNED:,}-domain scan universe</li>
+<li><a href="data/gov-domains.txt">gov-domains.txt</a> — the {DOMS_SCANNED:,}-domain scan universe (all sources merged)</li>
+<li>Expansion provenance: <a href="https://github.com/LogicIncZo/eMudraImpacts/tree/main/data">data/</a> in the repo —
+igod-domains.txt (+ full <a href="https://github.com/LogicIncZo/eMudraImpacts/blob/main/results/igod-dump.csv">igod-dump.csv</a>),
+discovered-domains.txt, discovery-log.csv</li>
 <li>Per-host certificate chains: <a href="https://github.com/LogicIncZo/eMudraImpacts/tree/main/results/chains">results/chains/ in the repo</a> ·
 scanner: <a href="https://github.com/LogicIncZo/eMudraImpacts/tree/main/scripts">scripts/</a> (openssl-based, re-runnable)</li>
 </ul>
 
 <h2>Methodology</h2>
 <ul>
-<li>Universe: registry dump of {DOMS_SCANNED:,} registrable <code>.gov.in</code>/<code>.nic.in</code> domains; per domain the apex
-and <code>www.</code> were probed on :443 (fallback :8443), plus a common-prefix vhost probe (portal/services/sso/apps/…) over impacted domains.</li>
+<li>Universe: registry dump of gov.in/nic.in domains, expanded with (a) a full IGOD
+(india.gov.in web-directory) dump across all 36 states/UTs and (b) a link crawl over every
+TLS-reachable host's homepage, <code>robots.txt</code> and <code>sitemap.xml</code> harvesting
+cross-referenced gov domains; per domain the apex and <code>www.</code> were probed on :443
+(fallback :8443), plus a common-prefix vhost probe (portal/services/sso/apps/…) over impacted domains.</li>
 <li>Chains captured with <code>openssl s_client -showcerts</code>; a host is flagged when its leaf issuer or any presented
 chain element matches the compromised intermediates or carries eMudhra/emSign branding.</li>
 <li>G1 paths: <code>emSign SSL CA - G1</code> leaves chain directly to legacy <code>emSign Root CA - G1</code>;
